@@ -1,0 +1,1950 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0040609016305995</prism:url><dc:identifier>doi:10.1016/j.tsf.2016.10.011</dc:identifier><eid>1-s2.0-S0040609016305995</eid><prism:doi>10.1016/j.tsf.2016.10.011</prism:doi><pii>S0040-6090(16)30599-5</pii><dc:title>Solution processing of CuIn(S,Se)2 and Cu(In,Ga)(S,Se)2 thin film solar cells using metal chalcogenide precursors </dc:title><prism:publicationName>Thin Solid Films</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00406090</prism:issn><prism:volume>633</prism:volume><prism:startingPage>76</prism:startingPage><prism:endingPage>80</prism:endingPage><prism:pageRange>76-80</prism:pageRange><dc:format>application/xml</dc:format><prism:coverDate>2017-07-01</prism:coverDate><prism:coverDisplayDate>1 July 2017</prism:coverDisplayDate><prism:copyright>© 2016 The Authors. Published by Elsevier B.V.</prism:copyright><prism:publisher>The Authors. Published by Elsevier B.V.</prism:publisher><prism:issueName>E-MRS 2016 Spring Meeting, Symposium V, Thin-Film Chalcogenide Photovoltaic Materials</prism:issueName><dc:creator>Arnou, Panagiota</dc:creator><dc:creator>Cooper, Carl S.</dc:creator><dc:creator>Uličná, Soňa</dc:creator><dc:creator>Abbas, Ali</dc:creator><dc:creator>Eeles, Alex</dc:creator><dc:creator>Wright, Lewis D.</dc:creator><dc:creator>Malkov, Andrei V.</dc:creator><dc:creator>Walls, John M.</dc:creator><dc:creator>Bowers, Jake W.</dc:creator><dc:description>
+               Abstract
+               
+                  In order to realize the true low cost potential of Cu(In,Ga)(S,Se)2 (CIGS) thin film solar cells, high performance needs to be combined with simple and easily controllable atmospheric-based deposition processes. A molecular solution-based approach for CIGS deposition is proposed, using metal chalcogenide precursors dissolved in an amine-thiol solvent combination. CIGS thin films were sprayed with varying Ga content and the sprayed films were incorporated into solar cells. The effect of the Ga content on the material and device properties is investigated. A champion power conversion efficiency of 9.8% (active area) was achieved, which highlights the potential of this methodology.
+               
+            </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName>Engineering and Physical Sciences Research Council</openaccessSponsorName><openaccessSponsorType>FundingBody</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><dcterms:subject>Chalcopyrite</dcterms:subject><dcterms:subject>CIGS</dcterms:subject><dcterms:subject>Gallium content</dcterms:subject><dcterms:subject>Thin-film solar cells</dcterms:subject><dcterms:subject>Spray-coating</dcterms:subject><dcterms:subject>Solution processing</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0040609016305995" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0040609016305995" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="66" height="163" size="10783">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609016305995-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="202" height="164" size="15413">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609016305995-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="313" height="771" size="71597">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609016305995-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="624" height="507" size="67610">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609016305995-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1387" height="3417" size="479458">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609016305995-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2765" height="2248" size="412393">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609016305995-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>85002343460</scopus-id><scopus-eid>2-s2.0-85002343460</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85002343460" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271603</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291893</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Thin Solid Films</xocs:srctitle>
+      <xocs:normalized-srctitle>THINSOLIDFILMS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20161005">2016-10-05</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20161005">2016-10-05</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20170609">2017-06-09</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20170609">2017-06-09</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2018-06-21T19:38:54</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0040609016305995</xocs:eid>
+      <xocs:pii-formatted>S0040-6090(16)30599-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0040609016305995</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.tsf.2016.10.011</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0040609017X00126</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20180621">2018-06-21T18:55:41.789779Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20170701</xocs:date-search-begin>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1475680409">2016-10-05T15:13:29.532854Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid highlightsabst primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0040-6090</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00406090</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>EPSRC</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>633</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>633</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 633</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>16</xocs:sort-order>
+      <xocs:first-fp>76</xocs:first-fp>
+      <xocs:last-lp>80</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>76</xocs:first-page>
+         <xocs:last-page>80</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20170701</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 July 2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-07-01</xocs:cover-date-start>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>E-MRS 2016 Spring Meeting, Symposium V, Thin-Film Chalcogenide Photovoltaic Materials</ce:title>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author author-id="S0040609017X00126-acedc9d650512cc0f3315da546733da3">
+                     <ce:given-name>Stephan</ce:given-name>
+                     <ce:surname>Buecheler</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S0040609017X00126-f84b84ab22281156434b4f931f90321c">
+                     <ce:given-name>Daniel</ce:given-name>
+                     <ce:surname>Abou-Ras</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S0040609017X00126-1cdf7ae5527c055d83737425aff60405">
+                     <ce:given-name>Marika</ce:given-name>
+                     <ce:surname>Edoff</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S0040609017X00126-c245f24575e68f8422430f08407aee68">
+                     <ce:given-name>Takeaki</ce:given-name>
+                     <ce:surname>Sakurai</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>B. CIGS solar cells</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2016 The Authors. Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>SOLUTIONPROCESSINGCUINSSE2CUINGASSE2THINFILMSOLARCELLSUSINGMETALCHALCOGENIDEPRECURSORS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ARNOU</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>P</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental details</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Preparation of CIGS precursor solutions</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Film preparation and selenization</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Fabrication of CIGS solar cells</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characterization</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="rf0005">
+            <xocs:ref-normalized-surname>KESSLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>491</xocs:ref-first-fp>
+            <xocs:ref-last-lp>498</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0010">
+            <xocs:ref-normalized-surname>SHAFARMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>567</xocs:ref-first-fp>
+            <xocs:ref-last-lp>616</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CUINGASE2SOLARCELLSINHANDB</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0015">
+            <xocs:ref-normalized-surname>KEMELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>31</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0020">
+            <xocs:ref-normalized-surname>JACKSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>28</xocs:ref-first-fp>
+            <xocs:ref-last-lp>31</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0025">
+            <xocs:ref-normalized-surname>TODOROV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>17</xocs:ref-first-fp>
+            <xocs:ref-last-lp>28</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0030">
+            <xocs:ref-normalized-surname>TODOROV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>82</xocs:ref-first-fp>
+            <xocs:ref-last-lp>87</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0035">
+            <xocs:ref-normalized-surname>UHL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>130</xocs:ref-first-fp>
+            <xocs:ref-last-lp>134</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0040">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>131</xocs:ref-first-fp>
+            <xocs:ref-last-lp>134</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0045">
+            <xocs:ref-normalized-surname>XIE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>13237</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0050">
+            <xocs:ref-normalized-surname>WEBBER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15722</xocs:ref-first-fp>
+            <xocs:ref-last-lp>15725</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0055">
+            <xocs:ref-normalized-surname>MCCARTHY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8378</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8381</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0060">
+            <xocs:ref-normalized-surname>ARNOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>31</xocs:ref-first-fp>
+            <xocs:ref-last-lp>34</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0065">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7390</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7397</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0070">
+            <xocs:ref-normalized-surname>ARNOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>11893</xocs:ref-first-fp>
+            <xocs:ref-last-lp>11897</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0075">
+            <xocs:ref-normalized-surname>TIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4184</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4190</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0080">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>19263</xocs:ref-first-fp>
+            <xocs:ref-last-lp>19267</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0085">
+            <xocs:ref-normalized-surname>GUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3060</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3065</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0090">
+            <xocs:ref-normalized-surname>HOSSAIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4147</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4154</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0095">
+            <xocs:ref-normalized-surname>ARNOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>42NDIEEEPHOTOVOLT</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>SOLUTIONDEPOSITEDCUINSSE2ABSORBERLAYERSMETALCHALCOGENIDES</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0100">
+            <xocs:ref-normalized-surname>SCHEER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>467</xocs:ref-first-fp>
+            <xocs:ref-last-lp>480</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0105">
+            <xocs:ref-normalized-surname>IZQUIERDOROCA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2163</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2166</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0110">
+            <xocs:ref-normalized-surname>STANBERY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>73</xocs:ref-first-fp>
+            <xocs:ref-last-lp>117</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0115">
+            <xocs:ref-normalized-surname>DULLWEBER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>145</xocs:ref-first-fp>
+            <xocs:ref-last-lp>150</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ARNOUX2017X76</xocs:refkey3>
+         <xocs:refkey4lp>ARNOUX2017X76X80</xocs:refkey4lp>
+         <xocs:refkey4ai>ARNOUX2017X76XP</xocs:refkey4ai>
+         <xocs:refkey5>ARNOUX2017X76X80XP</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2016-10-06T11:56:29Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>FundingBody</xocs:oa-sponsor-type>
+            <xocs:oa-sponsor-name>Engineering and Physical Sciences Research Council</xocs:oa-sponsor-name>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2019-06-09T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2016 The Authors. Published by Elsevier B.V.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0040-6090(16)30599-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0040609016305995</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0040609016305995</xocs:eid>
+         <xocs:doi>10.1016/j.tsf.2016.10.011</xocs:doi>
+         <xocs:cid>271603</xocs:cid>
+         <xocs:timestamp>2018-06-21T18:55:41.789779Z</xocs:timestamp>
+         <xocs:cover-date-start>2017-07-01</xocs:cover-date-start>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>EPSRC</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0040609016305995-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609016305995/MAIN/application/pdf/c99ec97e7e21b5bb89b0c8755d7f04c0/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609016305995/MAIN/application/pdf/c99ec97e7e21b5bb89b0c8755d7f04c0/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>549626</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0040609016305995-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609016305995/PREVIEW/image/png/3d18d146bc3a709088a32a75366b899c/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609016305995/PREVIEW/image/png/3d18d146bc3a709088a32a75366b899c/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>58668</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609016305995-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609016305995/gr1/THUMBNAIL/image/gif/9b34a168eb355fa47598cf17a2c64348/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609016305995/gr1/THUMBNAIL/image/gif/9b34a168eb355fa47598cf17a2c64348/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10783</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>66</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609016305995-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609016305995/gr2/THUMBNAIL/image/gif/d71c0a3ca98fa2be6b2e29c61d43b0b7/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609016305995/gr2/THUMBNAIL/image/gif/d71c0a3ca98fa2be6b2e29c61d43b0b7/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15413</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>202</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609016305995-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609016305995/gr1/DOWNSAMPLED/image/jpeg/4753f32d686249d13b077c9b99c27bc7/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609016305995/gr1/DOWNSAMPLED/image/jpeg/4753f32d686249d13b077c9b99c27bc7/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>71597</xocs:filesize>
+               <xocs:pixel-height>771</xocs:pixel-height>
+               <xocs:pixel-width>313</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609016305995-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609016305995/gr2/DOWNSAMPLED/image/jpeg/0188979e219625ec7a233144f9678de4/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609016305995/gr2/DOWNSAMPLED/image/jpeg/0188979e219625ec7a233144f9678de4/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>67610</xocs:filesize>
+               <xocs:pixel-height>507</xocs:pixel-height>
+               <xocs:pixel-width>624</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609016305995-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609016305995/gr1/HIGHRES/image/jpeg/a74a06f0bbfe78b02dff7d8db8acd6e7/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609016305995/gr1/HIGHRES/image/jpeg/a74a06f0bbfe78b02dff7d8db8acd6e7/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>479458</xocs:filesize>
+               <xocs:pixel-height>3417</xocs:pixel-height>
+               <xocs:pixel-width>1387</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609016305995-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609016305995/gr2/HIGHRES/image/jpeg/628555403592e9b7c89306b335aa3bf6/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609016305995/gr2/HIGHRES/image/jpeg/628555403592e9b7c89306b335aa3bf6/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>412393</xocs:filesize>
+               <xocs:pixel-height>2248</xocs:pixel-height>
+               <xocs:pixel-width>2765</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:serial-item>
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.4" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>TSF</jid>
+            <aid>35535</aid>
+            <ce:pii>S0040-6090(16)30599-5</ce:pii>
+            <ce:doi>10.1016/j.tsf.2016.10.011</ce:doi>
+            <ce:copyright type="other" year="2016">The Authors</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="ca0005">
+                  <ce:simple-para id="sp0005" view="all">(a) XRD pattern of a selenized sample with GGI<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.3. (b) XRD patterns showing the shift in the (220)/(204) diffraction peak with GGI, denoted as x. (c) Raman spectra of the selenized samples with varying GGI.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0005">Fig. 1</ce:alt-text>
+               <ce:link id="lk0005" locator="gr1" xlink:type="simple" xlink:href="pii:S0040609016305995/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="ca0010">
+                  <ce:simple-para id="sp0010" view="all">(a) EQE spectra of CIGS devices with varying GGI. (b) Correlation of the calculated bandgap values (from EQE) with the theoretical values. (c) EQE spectrum and (d) light J-V curve of the best performing device, with GGI<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.2/03. The PCE, V<ce:inf loc="post">OC</ce:inf>, J<ce:inf loc="post">SC</ce:inf> and fill factor (FF) equal to 9.8% (active area), 528<ce:hsp sp="0.25"/>mV, 30.7<ce:hsp sp="0.25"/>mA<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>2</ce:sup> and 60%, respectively.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0010">Fig. 2</ce:alt-text>
+               <ce:link id="lk0010" locator="gr2" xlink:type="simple" xlink:href="pii:S0040609016305995/gr2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0005" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="ca0015">
+                  <ce:simple-para id="sp0015" view="all">The targeted film composition (based on the precursor solution) and the actual composition of each selenized CIGS sample, estimated with EDS analysis.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0015">Table 1</ce:alt-text>
+               <tgroup cols="7">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <colspec colname="col6"/>
+                  <colspec colname="col7"/>
+                  <thead>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col7" rowsep="1" align="center">Composition</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Ga/(In<hsp sp="0.25"/>+<hsp sp="0.25"/>Ga)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="center">Cu</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="center">In</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="center">Ga</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="center">S</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="center">Se</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" colname="col1" role="rowhead">0.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="center">Targeted</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="center">0.90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="center">1.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="center">0.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="center">0.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="center">2.00</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="center">Film</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="center">0.86</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="center">1.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="center">0.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="center">0.11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="center">2.19</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" colname="col1" role="rowhead">0.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="center">Targeted</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="center">0.90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="center">0.90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="center">0.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="center">0.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="center">2.00</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="center">Film</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="center">0.88</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="center">0.92</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="center">0.08</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="center">0.08</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="center">2.41</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" colname="col1" role="rowhead">0.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="center">Targeted</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="center">0.90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="center">0.80</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="center">0.20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="center">0.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="center">2.00</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="center">Film</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="center">0.93</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="center">0.81</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="center">0.19</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="center">0.72</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="center">3.57</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" colname="col1" role="rowhead">0.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="center">Targeted</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="center">0.90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="center">0.70</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="center">0.30</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="center">0.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="center">2.00</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="center">Film</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="center">0.88</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="center">0.72</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="center">0.28</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="center">0.19</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="center">2.04</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" colname="col1" role="rowhead">0.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="center">Targeted</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="center">0.90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="center">0.60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="center">0.40</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="center">0.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="center">2.00</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="center">Film</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="center">0.90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="center">0.61</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="center">0.39</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="center">0.17</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="center">2.30</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0010" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="ca0020">
+                  <ce:simple-para id="sp0020" view="all">Summary of the J-V characteristics of the best performing cell of each sample with varying GGI.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0020">Table 2</ce:alt-text>
+               <tgroup cols="6">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <colspec colname="col6"/>
+                  <thead>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col6" rowsep="1" align="center">Photovoltaic Parameters</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Ga/(In<hsp sp="0.25"/>+<hsp sp="0.25"/>Ga)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="center">V<inf loc="post">OC</inf> (mV)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="center">Active area J<inf loc="post">SC</inf> (mA/cm<sup loc="post">2</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="center">FF (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="center">Active area efficiency (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="center">Total area efficiency (%)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">0.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="center">466</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="center">31.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="center">49.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="center">7.18</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="center">5.81</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">0.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="center">478</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="center">29.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="center">46.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="center">6.48</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="center">5.21</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">0.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="center">521</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="center">28.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="center">57.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="center">8.47</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="center">6.83</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">0.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="center">416</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="center">26.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="center">51.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="center">5.68</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="center">4.59</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">0.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="center">575</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="center">19.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="center">55.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="center">6.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="center">4.91</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">0.2/0.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="center">528</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="center">30.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="center">60.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="center">9.76</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="center">7.86</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="ti0005">Solution processing of CuIn(S,Se)<ce:inf loc="post">2</ce:inf> and Cu(In,Ga)(S,Se)<ce:inf loc="post">2</ce:inf> thin film solar cells using metal chalcogenide precursors</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005" author-id="S0040609016305995-bb39821e4a395ec8bd4f364efe8f1b41">
+                  <ce:given-name>Panagiota</ce:given-name>
+                  <ce:surname>Arnou</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cr0005" id="cf0010">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  <ce:e-address id="em0005" type="email">P.Arnou@lboro.ac.uk</ce:e-address>
+               </ce:author>
+               <ce:author id="au0010" author-id="S0040609016305995-3db8218f332ed44088836899de2067e4">
+                  <ce:given-name>Carl S.</ce:given-name>
+                  <ce:surname>Cooper</ce:surname>
+                  <ce:cross-ref refid="af0010" id="cf0015">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0015" author-id="S0040609016305995-1175bcec24a1b006b88abad6e8e08101">
+                  <ce:indexed-name>Ulicna</ce:indexed-name>
+                  <ce:given-name>Soňa</ce:given-name>
+                  <ce:surname>Uličná</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0020">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0020" author-id="S0040609016305995-82cab1436e7a55bc692a34ebc82ac296">
+                  <ce:given-name>Ali</ce:given-name>
+                  <ce:surname>Abbas</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0025">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0025" author-id="S0040609016305995-63988124eee5a85685877071a65ecacb">
+                  <ce:given-name>Alex</ce:given-name>
+                  <ce:surname>Eeles</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0030">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0030" author-id="S0040609016305995-ecd277cb269db4825e88b1773028a3ef">
+                  <ce:given-name>Lewis D.</ce:given-name>
+                  <ce:surname>Wright</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0035">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0035" author-id="S0040609016305995-e534cbaed46b550548bae7523b2a7922">
+                  <ce:given-name>Andrei V.</ce:given-name>
+                  <ce:surname>Malkov</ce:surname>
+                  <ce:cross-ref refid="af0010" id="cf0040">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0040" author-id="S0040609016305995-135b9bed4c7d2024d7709ba80f1d2760">
+                  <ce:given-name>John M.</ce:given-name>
+                  <ce:surname>Walls</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0045">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0045" author-id="S0040609016305995-c01b919f1e1d3b81c05feda0a67c086e">
+                  <ce:given-name>Jake W.</ce:given-name>
+                  <ce:surname>Bowers</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0050">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cr0005" id="cf7710">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  <ce:e-address id="em7705" type="email">J.W.Bowers@lboro.ac.uk</ce:e-address>
+               </ce:author>
+               <ce:affiliation id="af0005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="tn0005">Centre for Renewable Energy Systems Technology (CREST), Wolfson School of Mechanical, Electrical and Manufacturing Engineering, Loughborough University, Loughborough, Leicestershire, LE11 3TU, UK</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Centre for Renewable Energy Systems Technology (CREST)</sa:organization>
+                     <sa:organization>Wolfson School of Mechanical</sa:organization>
+                     <sa:organization>Electrical and Manufacturing Engineering</sa:organization>
+                     <sa:organization>Loughborough University</sa:organization>
+                     <sa:city>Loughborough</sa:city>
+                     <sa:state>Leicestershire</sa:state>
+                     <sa:postal-code>LE11 3TU</sa:postal-code>
+                     <sa:country>UK</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af0010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="tn0010">Department of Chemistry, Loughborough University, Loughborough, Leicestershire, LE11 3TU, UK</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Chemistry</sa:organization>
+                     <sa:organization>Loughborough University</sa:organization>
+                     <sa:city>Loughborough</sa:city>
+                     <sa:state>Leicestershire</sa:state>
+                     <sa:postal-code>LE11 3TU</sa:postal-code>
+                     <sa:country>UK</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cr0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="tx0005">Corresponding authors.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="6" month="5" year="2016"/>
+            <ce:date-revised day="7" month="9" year="2016"/>
+            <ce:date-accepted day="4" month="10" year="2016"/>
+            <ce:abstract id="ab0005" xml:lang="en" view="all" class="author">
+               <ce:section-title id="st0005">Abstract</ce:section-title>
+               <ce:abstract-sec id="as0005" view="all">
+                  <ce:simple-para id="sp0025" view="all">In order to realize the true low cost potential of Cu(In,Ga)(S,Se)<ce:inf loc="post">2</ce:inf> (CIGS) thin film solar cells, high performance needs to be combined with simple and easily controllable atmospheric-based deposition processes. A molecular solution-based approach for CIGS deposition is proposed, using metal chalcogenide precursors dissolved in an amine-thiol solvent combination. CIGS thin films were sprayed with varying Ga content and the sprayed films were incorporated into solar cells. The effect of the Ga content on the material and device properties is investigated. A champion power conversion efficiency of 9.8% (active area) was achieved, which highlights the potential of this methodology.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:abstract id="ab0010" class="author-highlights" xml:lang="en" view="all">
+               <ce:section-title id="st0010">Highlights</ce:section-title>
+               <ce:abstract-sec id="as0010" view="all">
+                  <ce:simple-para id="sp0030" view="all">
+                     <ce:list id="l0005">
+                        <ce:list-item id="u0005">
+                           <ce:label>•</ce:label>
+                           <ce:para id="p0005" view="all">Pure solution-based deposition approach for CIGS thin film solar cells.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0010">
+                           <ce:label>•</ce:label>
+                           <ce:para id="p0010" view="all">Dissolution of metal chalcogenide precursors in hydrazine-free solvents.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0015">
+                           <ce:label>•</ce:label>
+                           <ce:para id="p0015" view="all">Straightforward absorber compositional control, by varying the precursor solution.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0020">
+                           <ce:label>•</ce:label>
+                           <ce:para id="p0020" view="all">Tuning of material and solar cell properties with Ga content.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords id="ks0005" view="all" class="keyword">
+               <ce:section-title id="st0015">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text id="tx0010">Chalcopyrite</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text id="tx0015">CIGS</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text id="tx0020">Gallium content</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text id="tx0025">Thin-film solar cells</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0025">
+                  <ce:text id="tx0030">Spray-coating</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0030">
+                  <ce:text id="tx0035">Solution processing</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st0020">Introduction</ce:section-title>
+                  <ce:para id="p0025" view="all">Thin film solar cells are a promising low cost alternative to wafer-based cells, due to materials savings. Among other advantages, these types of solar cells are compatible with low cost, atmospheric-based fabrication processes which can result in significant cost reductions. Such processes are also adaptable to roll-to-roll processing, which brings additional cost benefits <ce:cross-ref id="cf0055" refid="bb0005">[1]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0030" view="all">One of the most promising thin film technologies is the chalcopyrite semiconductor CuInSe<ce:inf loc="post">2</ce:inf> and its alloys, commonly referred to as CIGS. CIGS has a broad single-phase composition range and a tuneable bandgap, by alloying CuInSe<ce:inf loc="post">2</ce:inf> with S or Ga. High performing devices are commonly obtained with a bandgap of around 1.1–1.3<ce:hsp sp="0.25"/>eV, CGI<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>[Cu]/([Ga]<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>[In]) of 0.88–0.95 and GGI<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>[Ga]/([Ga]<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>[In]) of ~<ce:hsp sp="0.10"/>0.3 <ce:cross-ref refid="bb0010" id="cf8500">[2]</ce:cross-ref>. Usually, a graded bandgap as a function of depth is desirable, with higher Ga content towards the back of the absorber <ce:cross-ref id="cf0060" refid="bb0015">[3]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0035" view="all">Although the highest performing CIGS devices to date are typically obtained by vacuum co-evaporation, high vacuum deposition equipment requires high capital investment <ce:cross-ref id="cf0065" refid="bb0020">[4]</ce:cross-ref>. CIGS can be more cost effective when atmospheric solution processes are used instead, while maintaining high performance. Atmospheric-based processes combine the advantages of high material utilization, low capital investment and a high manufacturing throughput, and as a consequence they are an attractive alternative to vacuum techniques <ce:cross-ref id="cf0070" refid="bb0025">[5]</ce:cross-ref>. Pure solution-based approaches in particular offer additional advantages, such as straightforward compositional control simply by modifying the precursor solution <ce:cross-ref id="cf0075" refid="bb0025">[5]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0040" view="all">The most promising solution-based approach for CIGS in terms of efficiency, involves the dissolution of metal chalcogenides (Cu<ce:inf loc="post">2</ce:inf>S and In<ce:inf loc="post">2</ce:inf>Se<ce:inf loc="post">3</ce:inf>) and Ga metal in hydrazine <ce:cross-ref id="cf0080" refid="bb0030">[6]</ce:cross-ref>. Whilst these precursors are not easily dissolved in common solvents due to their strong covalent bonds, they can be effectively dissolved in hydrazine, in the presence of excess chalcogen <ce:cross-ref id="cf0085" refid="bb0030">[6]</ce:cross-ref>. However, the toxic and explosive nature of the solvent makes it difficult to scale up and commercially use this process. This fact has stimulated research on hydrazine-free approaches. For example, recently proposed molecular-based approaches use a combination of dimethyl sulfoxide, thiourea and chlorides <ce:cross-ref id="cf0090" refid="bb0035">[7]</ce:cross-ref>, butyldithiocarbamic acid <ce:cross-ref id="cf0095" refid="bb0040">[8]</ce:cross-ref> or thioacetic acid <ce:cross-ref id="cf0100" refid="bb0045">[9]</ce:cross-ref> combined with metal oxides/hydroxides/acetylacetonates. Despite the success of these methods, metal salts and/or oxides are used, which contain impurities that can deteriorate device performance. An alternative molecular-based approach should ideally be developed to involve metal chalcogenides instead, in a similar manner as the hydrazine-based route, but by completely eliminating hydrazine from the process.</ce:para>
+                  <ce:para id="p0045" view="all">An alternative solvent combination of an alkanethiol and 1,2-ethylenediamine has recently been discovered by Brutchey et al. to dissolve a range of metals, metal oxides, and metal chalcogenides <ce:cross-refs id="cf0105" refid="bb0050 bb0055">[10,11]</ce:cross-refs>. This solvent mixture has also been used for CuIn(S, Se)<ce:inf loc="post">2</ce:inf> thin film deposition by dissolving Cu<ce:inf loc="post">2</ce:inf>S, Cu<ce:inf loc="post">2</ce:inf>Se, In<ce:inf loc="post">2</ce:inf>S<ce:inf loc="post">3</ce:inf> and In<ce:inf loc="post">2</ce:inf>Se<ce:inf loc="post">3</ce:inf> 
+                     <ce:cross-ref id="cf0110" refid="bb0060">[12]</ce:cross-ref>. However, no working devices were reported due to the high porosity of the spin coated films <ce:cross-ref id="cf0115" refid="bb0060">[12]</ce:cross-ref>. Other work suggests that the molecular species in the as-deposited and dried film are partly re-dissolved during the subsequent spinning step, which results in poor material quality <ce:cross-ref id="cf0120" refid="bb0065">[13]</ce:cross-ref>. Substitution of spin coating with spraying of the same metal chalcogenide precursor solutions used in our previous work <ce:cross-ref id="cf0125" refid="bb0060">[12]</ce:cross-ref>, resulted in more densely packed CuIn(S, Se)<ce:inf loc="post">2</ce:inf> absorber layers and power conversion efficiencies (PCE) up to 8% <ce:cross-ref id="cf0130" refid="bb0070">[14]</ce:cross-ref>. The alkanethiol<ce:hsp sp="0.10"/>−<ce:hsp sp="0.10"/>diamine solvent system was later used for fabrication of Cu<ce:inf loc="post">2</ce:inf>ZnSn(S,Se)<ce:inf loc="post">4</ce:inf> solar cells with PCEs exceeding 7%, starting from metal oxides <ce:cross-ref id="cf0135" refid="bb0075">[15]</ce:cross-ref>. Pure Cu, In and Ga metals have also been dissolved in the same solvent mixture by heating the solutions for several hours, resulting in CIGS solar cells with PCEs of up to 9.5% <ce:cross-ref id="cf0140" refid="bb0080">[16]</ce:cross-ref>. In this work we further explore the potential of this solvent system for CIGS deposition, starting from metal sulphide solution precursors. The Ga content was also varied, in an effort to investigate the effect on the material and device properties.</ce:para>
+                  <ce:para id="p0050" view="all">A repeatable and easily controlled methodology is proposed that allows fine adjustment of the absorber composition. A champion PCE of 9.8% is obtained for a graded bandgap of GGI 0.2–0.3. These results highlight the potential of this approach and it is anticipated that further process optimization will result in higher performance.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st0025">Experimental details</ce:section-title>
+                  <ce:section id="s0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="st0030">Preparation of CIGS precursor solutions</ce:section-title>
+                     <ce:para id="p0055" view="all">The solutions were prepared targeting a Cu-poor film stoichiometry with varying Ga content. Each individual component solution (i.e., In<ce:inf loc="post">2</ce:inf>S<ce:inf loc="post">3</ce:inf>, Cu<ce:inf loc="post">2</ce:inf>S, Ga) was prepared by dissolution in a mixture of 1,2-ethylenediamine and 1,2-ethanedithiol (vol/vol<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>10:1) with a targeted concentration of 0.2<ce:hsp sp="0.25"/>M. The CIGS film composition was controlled by varying the amount of each component solution used. Ga was dissolved in the presence of Se (2<ce:hsp sp="0.25"/>mmol Se per 1<ce:hsp sp="0.25"/>mmol of Ga). It should be noted that no excess chalcogen is required for metal sulphide dissolution, which is the case in the hydrazine-based approach <ce:cross-ref id="cf0145" refid="bb0030">[6]</ce:cross-ref>. Hence, elemental Se was only added to the Ga stock solution. The three inks (initially in the form of suspension) were stirred overnight and were converted into optically transparent solutions that are stable for weeks. Cu<ce:inf loc="post">2</ce:inf>S was converted into a brown solution; Ga stock solution was dark orange and the In<ce:inf loc="post">2</ce:inf>S<ce:inf loc="post">3</ce:inf> solution was colourless. The precursor preparation was performed inside a fume hood, with a nitrogen-purged vial during dissolution. The three component solutions were mixed in certain ratios to form the CIGS precursor solution. The precursor solution was diluted with ethyl acetate (2:1<ce:hsp sp="0.25"/>v/v) and was filtered (0.45<ce:hsp sp="0.25"/>μm polytetrafluoroethylene) prior to the deposition step. After dilution, the precursor solution had a bright orange colour.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="st0035">Film preparation and selenization</ce:section-title>
+                     <ce:para id="p0060" view="all">The spray deposition was performed in ambient atmospheric conditions within a fume hood using a glass chromatography atomizer. The films were sprayed on a molybdenum coated glass substrate placed on a hot plate, controlled at 310<ce:hsp sp="0.25"/>°C. In-between each spray run there was a short drying step for 90<ce:hsp sp="0.25"/>s at the same temperature. After the last deposition/drying cycle, a post-deposition selenization step was performed inside a tube furnace. Unless otherwise stated, there was no intentional bandgap grading in the films and the same solution was used for all the spray runs. In one case, a bandgap grading was attempted by first spraying 3 layers of the solution with GGI<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.3, followed by two layers of the solution with GGI<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.2.</ce:para>
+                     <ce:para id="p0065" view="all">For the selenization, two 2.5<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>2.5<ce:hsp sp="0.25"/>cm samples were placed inside a graphite box with Se pellets. The tube was first purged with nitrogen, before setting the starting pressure to 53<ce:hsp sp="0.25"/>kPa. The heating profile lasted for 50<ce:hsp sp="0.25"/>min including ramping (~<ce:hsp sp="0.10"/>35<ce:hsp sp="0.25"/>°C/min), which resulted in the complete evaporation of the Se pellets in the box (~<ce:hsp sp="0.10"/>300<ce:hsp sp="0.25"/>mg).</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="st0040">Fabrication of CIGS solar cells</ce:section-title>
+                     <ce:para id="p0070" view="all">The devices prepared in this work were deposited in the standard stack configuration of ZnO:Al/iZnO/CdS/CIGS/Mo/glass. The CdS layer (~<ce:hsp sp="0.10"/>60<ce:hsp sp="0.25"/>nm thickness) was deposited by chemical bath deposition. The intrinsic ZnO and Al doped ZnO layers (~<ce:hsp sp="0.10"/>80<ce:hsp sp="0.25"/>nm and 500<ce:hsp sp="0.25"/>nm respectively) were both deposited using RF sputtering. Finally, a top contact grid and MgF<ce:inf loc="post">2</ce:inf> anti-reflective (AR) coating were evaporated. Mechanical scribing was performed to isolate each cell of ~<ce:hsp sp="0.10"/>0.25<ce:hsp sp="0.25"/>cm<ce:sup loc="post">2</ce:sup> area. The grid (0.05<ce:hsp sp="0.25"/>cm<ce:sup loc="post">2</ce:sup>) shades ~20% of the device area.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0030" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="st0045">Characterization</ce:section-title>
+                     <ce:para id="p0075" view="all">Energy Dispersive X-ray spectroscopy (EDS) was used for compositional analysis, with an aperture size of 60<ce:hsp sp="0.25"/>μm and 20<ce:hsp sp="0.25"/>kV operating voltage. A Bruker D2 phaser X-ray diffractometer was used for X-ray diffraction (XRD) analysis, using a Cu-Kα X-ray source and a Lynxeye detector. For the Raman measurements, a Jobin-Yvon LabRam HR system was used to collect un-polarised micro-Raman spectra using a ×<ce:hsp sp="0.10"/>50 objective lens and a He-Ne laser (λ<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>632.817<ce:hsp sp="0.25"/>nm). The current density/voltage (J-V) characterization of the devices was performed using AM1.5G simulated sunlight from a dual source solar simulator (Wacom, Japan) under 100<ce:hsp sp="0.25"/>mW<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>2</ce:sup>, using a calibrated Si reference cell. Prior to the J-V measurements, the cell area was measured using a digital microscope. The external quantum efficiency (EQE) spectra were acquired with chopped light using a Bentham PVE300 system with both Si and Ge reference diodes for calibration. The measurements were performed at 0<ce:hsp sp="0.25"/>V bias with a spectral resolution of 5<ce:hsp sp="0.25"/>nm.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0035" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st0050">Results and discussion</ce:section-title>
+                  <ce:para id="p0080" view="all">EDS analysis was performed on as-deposited and selenized samples. The chemical composition of the film was determined by averaging the data collected from 2 random points. <ce:cross-ref id="cf0150" refid="t0005">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="t0005"/> summarizes the composition of each selenized film, as the concentration of each element in relation to (In<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>Ga) content. The targeted film composition (based on the precursor solution) was Cu<ce:inf loc="post">0·9</ce:inf>In<ce:inf loc="post">1-x</ce:inf>Ga<ce:inf loc="post">x</ce:inf>Se<ce:inf loc="post">2</ce:inf>, with a constant CGI ratio and GGI varied from 0 to 0.4. It is assumed that S is fully displaced by Se during selenization, as previously observed for sulphide nanocrystal precursors <ce:cross-ref id="cf0155" refid="bb0085">[17]</ce:cross-ref>. We have also previously shown for Ga-free samples that S is mostly displaced by Se during the selenization step with comparable selenization conditions <ce:cross-ref id="cf0160" refid="bb0070">[14]</ce:cross-ref>. Overall, the atomic ratios of the cations in the films are retained. Previous work on spin coated CIGS films using the alkanethiol<ce:hsp sp="0.10"/>−<ce:hsp sp="0.10"/>diamine solvent system showed that there was a strong Cu loss during film deposition <ce:cross-ref id="cf0165" refid="bb0065">[13]</ce:cross-ref>. This problem is not evident here, which is most likely related to the different deposition technique used. The formation of fine droplets with spraying may eliminate the re-dissolution of the molecular species during subsequent deposition runs. EDS analysis on as-deposited samples (not shown) shows the anticipated increase of Se incorporation with GGI (Ga is dissolved in the presence of Se), with a composition varying from Cu<ce:inf loc="post">0.9</ce:inf>InS<ce:inf loc="post">2</ce:inf> to Cu<ce:inf loc="post">0.9</ce:inf>In<ce:inf loc="post">0</ce:inf>.<ce:inf loc="post">6</ce:inf>Ga<ce:inf loc="post">0.4</ce:inf> S<ce:inf loc="post">1.6</ce:inf>Se<ce:inf loc="post">0.4</ce:inf>. Finally, it was confirmed that S is mostly displaced by Se during the selenization process. This is justified by the high Se partial pressure favouring the formation of CuInSe<ce:inf loc="post">2</ce:inf> 
+                     <ce:cross-ref id="cf0170" refid="bb0085">[17]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0085" view="all">The effects of the Ga content on the CIGS thin film properties were investigated with XRD and Raman analysis. The XRD patterns of the films show the same distinct peaks which correspond to the chalcopyrite structure of CuIn<ce:inf loc="post">0.5</ce:inf>Ga<ce:inf loc="post">0.5</ce:inf>Se<ce:inf loc="post">2</ce:inf> (JCPDS 40-1488). The XRD pattern of the sample with GGI<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.3 is shown in <ce:cross-ref id="cf0175" refid="f0005">Fig. 1</ce:cross-ref>(a)<ce:float-anchor refid="f0005"/>. It was found that the (112), (220)/(204) and (312)/(116) peaks shift towards higher angles with increasing GGI, which indicates the reduction in the lattice constants, caused by Ga substituting for In <ce:cross-ref id="cf0180" refid="bb0090">[18]</ce:cross-ref>. The shift of the (220/204) diffraction peak to higher 2θ values with GGI is shown in <ce:cross-ref id="cf0185" refid="f0005">Fig. 1</ce:cross-ref>(b). Finally, the peak split for GGI<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0 could suggest that there is a phase separation. This peak split is not evident in the other samples, or in previous work for pure CuInSe<ce:inf loc="post">2</ce:inf> 
+                     <ce:cross-ref id="cf0190" refid="bb0095">[19]</ce:cross-ref>. In the previous work, Cu and In precursors were prepared as a one-pot mixture, which might facilitate the formation of a single phase material.</ce:para>
+                  <ce:para id="p0090" view="all">
+                     <ce:cross-ref id="cf0195" refid="f0005">Fig. 1</ce:cross-ref>(c) shows the Raman spectra of selenized films with varying GGI. The most intense Raman peak for CuInSe<ce:inf loc="post">2</ce:inf> and CuIn<ce:inf loc="post">1<ce:hsp sp="0.10"/>−<ce:hsp sp="0.10"/>x</ce:inf>Ga<ce:inf loc="post">x</ce:inf>Se<ce:inf loc="post">2</ce:inf> films is the A1 zone-centre phonon of the chalcopyrite structure <ce:cross-ref id="cf0200" refid="bb0100">[20]</ce:cross-ref>. Overall, the frequency of the A1 mode varies slightly with increasing x (GGI ratio) from 170<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup> (for x<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0) to 176<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup> for (x<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.4). A similar trend has previously been observed for an aqueous spray-pyrolysis approach <ce:cross-ref id="cf0205" refid="bb0090">[18]</ce:cross-ref>. The peaks assigned to B2/E vibrational modes of the chalcopyrite are weakened with GGI, with the pure CuInSe<ce:inf loc="post">2</ce:inf> phase having the strongest peaks. Two additional peaks are evident in the film with GGI<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0 at about 350<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup> and 490<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup> and are probably associated to the spinel CuIn<ce:inf loc="post">5</ce:inf>S<ce:inf loc="post">8</ce:inf> phase (observed in Cu-poor CuInS<ce:inf loc="post">2</ce:inf>) and to a Cu<ce:inf loc="post">2<ce:hsp sp="0.10"/>−<ce:hsp sp="0.10"/>x</ce:inf>S phase, respectively. In addition, secondary phases associated with Se-rich composition, such as elemental Se and Cu<ce:inf loc="post">x</ce:inf>Se are absent in these films <ce:cross-ref id="cf0210" refid="bb0105">[21]</ce:cross-ref>. An additional peak is also evident in the Raman spectrum of the film with GGI<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0, at 490<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup>. This supports the assumption that there is a phase separation for this composition.</ce:para>
+                  <ce:para id="p0095" view="all">The sprayed CIGS films were incorporated into devices. The EQE spectra shown in <ce:cross-ref id="cf0215" refid="f0010">Fig. 2</ce:cross-ref>(a)<ce:float-anchor refid="f0010"/> show a shift in the long-wavelength cut-off to shorter wavelengths. This is indicative of the increased bandgap with Ga content. The drop in EQE at longer wavelengths suggests that the sample is not fully recrystallized throughout its thickness, which is in agreement with our previous work <ce:cross-ref id="cf0220" refid="bb0095">[19]</ce:cross-ref>. <ce:cross-ref id="cf0225" refid="f0010">Fig. 2</ce:cross-ref>(b) shows the bandgap values calculated from the EQE data, by plotting [E·ln(1-EQE)]<ce:sup loc="post">2</ce:sup> versus E and extrapolating the band edge to the x-axis intercept <ce:cross-ref id="cf0230" refid="bb0095">[19]</ce:cross-ref>. The estimated bandgap values are close to the values calculated with the empirical formula for α–CuIn<ce:inf loc="post">1-x</ce:inf>Ga<ce:inf loc="post">x</ce:inf>Se<ce:inf loc="post">2</ce:inf>: E<ce:inf loc="post">g</ce:inf>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>1.65<ce:hsp sp="0.10"/>×<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>1.01(1-x)<ce:hsp sp="0.25"/>−<ce:hsp sp="0.25"/>0151(1<ce:hsp sp="0.10"/>− x)x <ce:cross-ref id="cf0235" refid="bb0110">[22]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0100" view="all">The EQE spectrum and the light J-V curve of the highest performing cell are shown in <ce:cross-ref id="cf0240" refid="f0010">Figs. 2</ce:cross-ref>(c) and (d). A champion PCE of 9.8% was obtained for a device with a graded bandgap, with GGI of 0.2 towards the front and 0.3 towards the back of the absorber. The photovoltaic parameters for the best cell on each sample are summarized in <ce:cross-ref id="cf0245" refid="t0010">Table 2</ce:cross-ref>
+                     <ce:float-anchor refid="t0010"/>. The anticipated trend of increasing open circuit voltage (V<ce:inf loc="post">OC</ce:inf>) and decreasing short circuit current density (J<ce:inf loc="post">SC</ce:inf>) with GGI ratio is observed. The graded device has a slightly higher J<ce:inf loc="post">SC</ce:inf> compared to the devices with a similar bandgap, which is explained by an improved collection at the long wavelengths. The improved collection could be associated with the back surface field provided by Ga grading, but further analysis is required to support this hypothesis <ce:cross-ref id="cf0250" refid="bb0115">[23]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0105" view="all">Based on these results, it is shown that Ga can be conveniently and controllably incorporated in sprayed CIGS films for optimization of the solar cell properties.</ce:para>
+               </ce:section>
+               <ce:section id="s0040" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st0055">Conclusions</ce:section-title>
+                  <ce:para id="p0110" view="all">A molecular solution-based approach is proposed for CIGS deposition, starting from metal chalcogenide precursor solutions. This methodology involves the dissolution of metal sulphides in an amine-thiol combination, which is significantly safer than hydrazine. CIGS thin films were sprayed with varying GGI ratios and were implemented in solar cells. It was shown that the composition and material properties of solution-processed CIGS films can be conveniently controlled using this methodology. A champion PCE of 9.8% was obtained for a device with a targeted graded bandgap. The simplicity of this method and the potential for a fine compositional control make this process highly promising for low cost CIGS fabrication.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ac0005" view="all">
+               <ce:section-title id="st0065">Acknowledgements</ce:section-title>
+               <ce:para id="p0120" view="all">The authors would like to acknowledge <ce:grant-sponsor id="gts0005" sponsor-id="http://dx.doi.org/10.13039/501100000266" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">EPSRC</ce:grant-sponsor> Supergen SuperSolar Hub for funding to support this project (<ce:grant-number id="gtn7410" refid="gts0005">EP/N508457/1</ce:grant-number>, <ce:grant-number id="gtn7415" refid="gts0005">EP/J017361/1</ce:grant-number>). The top contact grids and AR coating were deposited at Nanoco Technologies plc (UK). Alex Smith (CREST) assisted with the J-V measurements and Dr. Cary Allen (Nanoco Technologies plc) assisted with the EQE measurements.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title id="st0070">References</ce:section-title>
+               <ce:bibliography-sec id="bs0005" view="all">
+                  <ce:bib-reference id="bb0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="rf0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Kessler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Herrmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Powalla</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Approaches to flexible CIGS thin-film solar cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>480-481</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>491</sb:first-page>
+                              <sb:last-page>498</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="rf0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.N.</ce:given-name>
+                                 <ce:surname>Shafarman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Stolt</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cu(InGa)Se2 Solar Cells, in: Handb</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2005</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Photovolt. Sci. Eng</sb:name>
+                                 <sb:location>John Wiley &amp; Sons, Ltd</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>567</sb:first-page>
+                              <sb:last-page>616</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="rf0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kemell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ritala</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Leskelä</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thin film deposition methods for CuInSe 2 solar cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Crit. Rev. Solid State Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>31</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="rf0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Jackson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Hariskos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Wuerz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Kiowski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bauer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.M.</ce:given-name>
+                                 <ce:surname>Friedlmeier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Powalla</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Properties of Cu(In,Ga)Se2 solar cells with new record efficiencies up to 21.7%</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Status Solidi (RRL)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>28</sb:first-page>
+                              <sb:last-page>31</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="rf0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Todorov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.B.</ce:given-name>
+                                 <ce:surname>Mitzi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Direct liquid coating of chalcopyrite light-absorbing layers for photovoltaic devices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Eur. J. Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2010</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>17</sb:first-page>
+                              <sb:last-page>28</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="rf0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.K.</ce:given-name>
+                                 <ce:surname>Todorov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Gunawan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Gokmen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.B.</ce:given-name>
+                                 <ce:surname>Mitzi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Solution-processed Cu(In,Ga)(S,Se)2 absorber yielding a 15.2% efficient solar cell</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prog. Photovolt. Res. Appl.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>82</sb:first-page>
+                              <sb:last-page>87</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="rf0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.R.</ce:given-name>
+                                 <ce:surname>Uhl</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.K.</ce:given-name>
+                                 <ce:surname>Katahara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.W.</ce:given-name>
+                                 <ce:surname>Hillhouse</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Molecular-ink route to 13.0% efficient low-bandgap CuIn(S,Se)2 and 14.7% efficient Cu(In,Ga)(S,Se)2 solar cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Environ. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>130</sb:first-page>
+                              <sb:last-page>134</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="rf0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Pan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Air-stable, low-toxicity precursors for CuIn(SeS) 2 solar cells with 10.1% efficiency</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>131</sb:first-page>
+                              <sb:last-page>134</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="rf0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Qin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A facile molecular precursor-based Cu(In,Ga)(S,Se) 2 solar cell with 8.6% efficiency</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>13237</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="rf0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.H.</ce:given-name>
+                                 <ce:surname>Webber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.L.</ce:given-name>
+                                 <ce:surname>Brutchey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Alkahest for V2VI3 chalcogenides: dissolution of nine bulk semiconductors in a diamine-dithiol solvent mixture</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>135</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15722</sb:first-page>
+                              <sb:last-page>15725</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="rf0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>McCarthy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.H.</ce:given-name>
+                                 <ce:surname>Webber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.C.</ce:given-name>
+                                 <ce:surname>Schueller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.L.</ce:given-name>
+                                 <ce:surname>Brutchey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Solution-phase conversion of bulk metal oxides to metal chalcogenides using a simple thiol–amine solvent mixture</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. Int. Ed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8378</sb:first-page>
+                              <sb:last-page>8381</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="rf0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Arnou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.S.</ce:given-name>
+                                 <ce:surname>Cooper</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.V.</ce:given-name>
+                                 <ce:surname>Malkov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Bowers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Walls</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Solution-processed CuIn(S,Se)2 absorber layers for application in thin film solar cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>582</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>31</sb:first-page>
+                              <sb:last-page>34</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="rf0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Koeper</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Agrawal</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Solution-processed sulfur depleted Cu(In,Ga)Se2 solar cells synthesized from a monoamine-dithiol solvent mixture</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7390</sb:first-page>
+                              <sb:last-page>7397</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="rf0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Arnou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.F.A.M.</ce:given-name>
+                                 <ce:surname>van Hest</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Cooper</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.V.</ce:given-name>
+                                 <ce:surname>Malkov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Walls</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Bowers</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hydrazine-Free Solution-Deposited CuIn(S,Se)2 Solar Cells by Spray Deposition of Metal Chalcogenides</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Mater. Interfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>11893</sb:first-page>
+                              <sb:last-page>11897</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="rf0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Tian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Pan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A robust and low-cost strategy to prepare Cu 2 ZnSnS 4 precursor solution and its application in Cu 2 ZnSn(S,Se) 4 solar cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>RSC Adv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4184</sb:first-page>
+                              <sb:last-page>4190</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="rf0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Tian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Meng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Pan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Solution-deposited pure selenide CIGSe solar cells from elemental Cu, In, Ga, and Se</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem. A Mater. Energy Sustain.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>19263</sb:first-page>
+                              <sb:last-page>19267</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="rf0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Ford</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.W.</ce:given-name>
+                                 <ce:surname>Hillhouse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Agrawal</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sulfide nanocrystal inks for dense Cu(In1<ce:hsp sp="0.25"/>−<ce:hsp sp="0.25"/>xGax)(S1<ce:hsp sp="0.25"/>−<ce:hsp sp="0.25"/>ySey)2 absorber films and their photovoltaic performance</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nano Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3060</sb:first-page>
+                              <sb:last-page>3065</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="rf0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Hossain</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Tianliang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.K.</ce:given-name>
+                                 <ce:surname>Keat</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Xianglin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.R.</ce:given-name>
+                                 <ce:surname>Prabhakar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Batabyal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.G.</ce:given-name>
+                                 <ce:surname>Mhaisalkar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.H.</ce:given-name>
+                                 <ce:surname>Wong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Synthesis of Cu(In,Ga)(S,Se)2 thin films using an aqueous spray-pyrolysis approach, and their solar cell efficiency of 10.5%</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4147</sb:first-page>
+                              <sb:last-page>4154</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="rf0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Arnou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.S.</ce:given-name>
+                                 <ce:surname>Cooper</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.V.</ce:given-name>
+                                 <ce:surname>Malkov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Walls</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Bowers</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Solution-deposited CuIn(S,Se)2 absorber layers from metal chalcogenides</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>42nd IEEE Photovolt</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2015</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Spec. Conf</sb:name>
+                                 <sb:location>New Orleans, USA</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>6</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="rf0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Scheer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Pérez-Rodríguez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.K.</ce:given-name>
+                                 <ce:surname>Metzger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Advanced diagnostic and control methods of processes and layers in CIGS solar cells and modules</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prog. Photovolt. Res. Appl.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>467</sb:first-page>
+                              <sb:last-page>480</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="rf0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Izquierdo-Roca</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Fontané</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Álvarez-García</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Calvo-Barrio</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Pérez-Rodríguez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Morante</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Jaime-Ferrer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Saucedo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Grand</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Bermúdez</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrodeposition based synthesis of S-rich CuIn(S,Se)2 layers for photovoltaic applications: Raman scattering analysis of electrodeposited CuInSe2 precursors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>517</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2163</sb:first-page>
+                              <sb:last-page>2166</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="rf0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Stanbery</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Copper indium selenides and related materials for photovoltaic devices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Crit. Rev. Solid State Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>73</sb:first-page>
+                              <sb:last-page>117</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="rf0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Dullweber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>anna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Rau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Schock</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A new approach to high-efficiency solar cells by band gap grading in Cu(In,Ga)Se2 chalcopyrite semiconductors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sol. Energy Mater. Sol. Cells</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>145</sb:first-page>
+                              <sb:last-page>150</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>
