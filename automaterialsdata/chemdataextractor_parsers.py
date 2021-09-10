@@ -13,6 +13,7 @@ from chemdataextractor.doc import Paragraph, Sentence, Caption, Figure,Table, He
 from chemdataextractor.doc.table import Table, Cell
 
 from functools import reduce
+import re
 
 """
 Notes from ChemDataExtractor:
@@ -27,18 +28,14 @@ rbrct ... right bracket
 """
 
 # Pattern Helpers
-COMMON_TEXT = R('(\w+)?\D(\D+)+(\w+)?').hide()
-#COMMON_TEXT = R('\w+').hide()
-NUMERICAL_VALUE = (R(u'\d+(\.\d*)?') | R(u'\b([0-9]|[1-9][0-9]|100)\b'))(u'value')
-LOGIC_INDICATOR = (W('=') | W('of') | W('was') | W('is') | W('being') | 
-                   W('at') | (W('up') + W('to')) | W('average') | W('as') ).hide() 
-                   
-#                   W('reached') | W('reach') | W('reaches') |
-#                   W('result')  | W('resulted') | W('results')).hide() 
+COMMON_TEXT = R('^\w+$').hide()
+NUMERICAL_VALUE = (R(u'\d+(\.\d*)?'))(u'value')
+LOGIC_WORDS = R('(was|is|be(ing)?|result(s|ed)?|reach(es|ed)?|increase(s|d)?|decrease(s|d)?)').hide()
+NONLOGIC_WORDS  =  R('^(?!was|is|be(ing)?|result(s|ed)?|reach(es|ed)?|increase(s|d)?|decrease(s|d)?)([\w\d\(\),:\-]+)$').hide()
+NONLOGIC_WORDS_AND_NOT_NUMBER  =  R('^(?!was|is|be(ing)?|result(s|ed)?|reach(es|ed)?|increase(s|d)?|decrease(s|d)?|\d+)(\w+)$').hide()
+DEGREE_WORDS = R('^(about|around|approximately|roughly|~)$').hide()
+LOGIC_INDICATORS = (R('^(\)|\(|=|:|of)$') | W('¼') ).hide()
 
-#RANGE_INDICATOR = (I('about') | I('around') | I('roughly') |
-#                   Optional(I('in') + I('the') + I('range') + Optional(I('of')) ).hide()    
-                
 #JOINED_RANGE = R('^[\+\-–−]?\d+(\.\d+)?[\-–−~∼˜]\d+(\.\d+)?$')('value').add_action(merge)
 #SPACED_RANGE = (R('^[\+\-–−]?\d+(\.\d+)?$') + Optional(units).hide() + 
 #                (R('^[\-–−~∼˜]$') + R('^[\+\-–−]?\d+(\.\d+)?$') 
@@ -47,7 +44,7 @@ LOGIC_INDICATOR = (W('=') | W('of') | W('was') | W('is') | W('being') |
 #            (I('to') + R('^[\+\-–−]?\d+(\.\d+)?$') 
 #             | R('^[\+\-–−]\d+(\.\d+)?$')))('value').add_action(join)
 
-def generate_grammers_to_parse_numerical_properties(names, abbrvs, units, notation=None):
+def generate_grammars_to_parse_numerical_properties(names, abbrvs, units, notation=None):
     
     if notation is None: notation = u'numerical_property'
     
@@ -55,196 +52,93 @@ def generate_grammers_to_parse_numerical_properties(names, abbrvs, units, notati
     
     names  = reduce(lambda_or, names)
     abbrvs = reduce(lambda_or, abbrvs)
-    properties = ((names + Optional(lbrct + abbrvs + rbrct)) | abbrvs)(u'name')                 
+    property_names = ((names + Optional(lbrct + abbrvs + rbrct)) | abbrvs)(u'name')                 
     units  = reduce(lambda_or, units)(u'unit')
     
-    grammers = []
+    grammars = []
     
-    # 1 
-    grammers.append((properties + LOGIC_INDICATOR 
-                     + NUMERICAL_VALUE + Optional(units))((notation)))
-    #grammers.append((properties + LOGIC_INDICATOR + NUMERICAL_VALUE + Optional(units))(notation))
+    # 1 A ... is .... B 
+    grammars.append((property_names + ZeroOrMore(NONLOGIC_WORDS) + LOGIC_WORDS + ZeroOrMore(NONLOGIC_WORDS_AND_NOT_NUMBER)
+                     + NUMERICAL_VALUE + Optional(units))(notation))
     
-    # 2
-    grammers.append((properties + Optional(lbrct) + NUMERICAL_VALUE + Optional(units) + Optional(rbrct))((notation)))
+    # 2 A =/of B
+    grammars.append((property_names + Optional(R('^value(s)$')).hide() + Optional(LOGIC_INDICATORS) + Optional(DEGREE_WORDS) 
+                     + NUMERICAL_VALUE + Optional(units))(notation))
     
-    return reduce(lambda_or, grammers)
+    # 3 A as ? as B
+    grammars.append((property_names + I('as').hide() + R('(?!as)').hide() + I('as').hide()
+                     + NUMERICAL_VALUE + Optional(units))(notation))
+    
+    return reduce(lambda_or, grammars)
     
 
 class NumericalProperty(BaseModel):
-    name = StringType()
+    name  = StringType()
     value = StringType()
-    unit = StringType()
+    unit  = StringType()
     
 class OPVPropertyParser(BaseParser):
    
     # define property abbrevations / names 
     
-    pce_name  = (I(u'power') + I(u'conversion') + I(u'efficiency')) | I(u'efficiency')
-    ff_name   = I(u'fill') + I(u'factor')             
-    voc_name  = I(u'open') + I(u'circuit') + I(u'voltage')
-    names = [pce_name, ff_name, voc_name]
+    pce_name  = Optional(I('power') + Optional(hyphen) + I(u'conversion')) + I(u'efficiency') 
+    ff_name   = I('fill') + I('factor')             
+    voc_name  = I('open') + Optional(hyphen) + I(u'circuit')  + I(u'voltage')
+    jsc_name  = I('short') + Optional(hyphen) + I(u'circuit') + I(u'current') 
+    names = [pce_name, ff_name, voc_name, jsc_name]
                    
-    pce_abbrv = I(u'pce') | I(u'PCEs')
+    pce_abbrv = I(u'pce') | I(u'PCEs') | W('η')
     voc_abbrv = I(u'voc')
     ff_abbrv  = I(u'ff')
-    abbrvs = [pce_abbrv, ff_abbrv, voc_abbrv]
+    jsc_abbrv = I(u'jsc') | I(u'isc')
+    abbrvs = [pce_abbrv, ff_abbrv, voc_abbrv, jsc_abbrv]
     
     #define units
-    pce_units =  W(u'%') | I(u'percent') | I(u'percentage')
-    ff_units  =  W(u'%') | I(u'percent') | I(u'percentage')
-    voc_units =  I(u'v') | I(u'volt') | I(u'volts') | I(u'voltage') | I(u'voltage') 
-    units = [pce_units,  ff_units,  voc_units]
+    pce_units = W(u'%') | R(u'^percent(age)?$') 
+    ff_units  = W(u'%') | R(u'^percent(age)?$') 
+    voc_units = R(u'^v(olt(s|age(s)?)?)?$', re.I)
+    jsc_units1 = R('^(m)?A$', re.I) + W('/') + R('^(c|m)?m2$', re.I)
+    jsc_units2 = R('^(m)?A(c|m)?m22$', re.I) | ( R('^(m)?A$', re.I) + R('^(c|m)?m22$', re.I))
+    jsc_units3 = (R('^(m)?A(c|m)?m$', re.I) | (R('^(m)?A$', re.I) + R('^(c|m)?m$', re.I))) + hyphen + W('2')
+    units = [pce_units,  ff_units,  voc_units, jsc_units1, jsc_units2, jsc_units3]
     
-    root = generate_grammers_to_parse_numerical_properties(names, abbrvs, units, notation=u'opv_property')
+    root = generate_grammars_to_parse_numerical_properties(names, abbrvs, units, notation=u'opv_property')
     
     def interpret(self, result, start, end):
-        print(result)
         compound = Compound(
             opv_property=[
                 NumericalProperty(
-                    name =first(result.xpath('./name/text()')),
-                    value=first(result.xpath('./value/text()')),
-                    unit =first(result.xpath('./unit/text()'))
+                    name = ' '.join(result.xpath('./name/text()')),
+                    value= first(result.xpath('./value/text()')),
+                    unit = ''.join(result.xpath('./unit/text()'))
                 )
             ]
         )
         yield compound
-    
 
-# PCE Parser
-class Pce(BaseModel):
-    value = StringType()
-    units = StringType()
 
-class PceParser(BaseParser):
+class OPVMaterials(BaseModel):
+    name  = StringType()
     
-    units = (W(u'%') | I(u'percent'))(u'units')
-    abbrv_prefix = (I(u'PCE') | I(u'PCEs') | I(u'pce')).hide()
-    words_pref = (I(u'power') + I(u'conversion') + I(u'efficiency')).hide()
-    hyphanated_pref = (I(u'power') + I(u'-') + I('conversion') + I(u'efficiency')| I(u'efﬁciency')).hide()
-    prefix = Optional(I('a')).hide() \
-        + (Optional(lbrct) + abbrv_prefix + Optional(rbrct) | I('power') + Optional(I('conversion')) \
-        + Optional((I('efficiency') | I(u'efﬁciency') | I('range') | words_pref)) \
-        + Optional((I('temperature') | I('range')))).hide() \
-        + Optional(lbrct + W('PCE') + rbrct) \
-        + Optional (W('thus')) \
-        + Optional (W('reached')) \
-        + Optional (W('result')) \
-        + Optional (W('up')) \
-        + Optional(W('=') | W('¼') | I('of') | I('was') | I('is') | I('average') | I('high') | I('at') | I('to')).hide() \
-        + Optional(I('in') + I('the') + I('range') + Optional(I('of')) | I('about') | ('around') | I('%')).hide()
+class OPVMaterialsParser(BaseParser):
     
-    pce_first  = (words_pref + (Optional(lbrct) + abbrv_prefix + Optional(rbrct)) 
-                  + ZeroOrMore(COMMON_TEXT) + NUMERICAL_VALUE + Optional(units))(u'pce')
-
-    pce_second = (prefix + NUMERICAL_VALUE + Optional(units))(u'pce')
-   
-    pce_pattern = pce_first | pce_second
-    root = pce_pattern
+    root = R('^(?!VOC|JSC|ISC|PCE|FF|V|A|[0-9]+)([pA-Z0-9:/\-]{4,})$')(u'opv_mat') + \
+        ZeroOrMore(hyphen + R('^(?!VOC|JSC|ISC|PCE|FF|V|A|[0-9]+)([pA-Z0-9:/\-]+)$')(u'opv_mat'))
     
     def interpret(self, result, start, end):
-        print(result)
+        
+        if isinstance(result, list):
+            opv_name = ''.join([part.text for part in result])
+        else:
+            opv_name = result.text
+        
         compound = Compound(
-            pce_pattern=[
-                Pce(
-                    value=first(result.xpath('./value/text()')),
-                    units=first(result.xpath('./units/text()'))
+            opv_materials=[
+                OPVMaterials(
+                    name = opv_name
                 )
             ]
         )
         yield compound
 
-# Fill factor parser
-class Ff(BaseModel):
-    value = StringType()
-    units = StringType()
-    
-
-class FfParser(BaseParser):
-    units = (W(u'%') | I(u'percent'))(u'units') 
-    abbrv_prefix = (I(u'FF') | I(u'ff')).hide()
-    words_pref = (I(u'fill') | I(u'fill') + I(u'factor')).hide()
-    hyphanated_pref = (I(u'fill') | I(u'fill') + I(u'-') + I('factor')).hide()
-    
-    prefix = Optional(I('a')).hide() \
-        + (Optional(lbrct) + W('FF') + Optional(rbrct) 
-           | I('fill') | I('ﬁll') + Optional(I('factor'))).hide() \
-        + Optional(lbrct + W('FF') + rbrct) \
-        + Optional(W('=') | W('¼') | W(';') | W(',') | I('of') | I('was') | I('is') | I('at')).hide() \
-        + Optional(I('in') + I('the') + I('range') + Optional(I('of')) | I('about') 
-                   | I('average') | I('to') |I('around')| I ('%')).hide()
-
-    ff_first  = (words_pref + (Optional(lbrct) + abbrv_prefix + Optional(rbrct)) 
-                 + ZeroOrMore(COMMON_TEXT) + NUMERICAL_VALUE + Optional(units))(u'ff')
-    ff_second = (prefix + NUMERICAL_VALUE + Optional(units))(u'ff')
-    ff_third = (abbrv_prefix + prefix + NUMERICAL_VALUE)(u'ff')
-    ff_pattern = ff_first | ff_second | ff_third
-    
-    root = ff_pattern
-
-    def interpret(self, result, start, end):
-        compound = Compound(
-            ff_pattern=[
-                Ff(
-                    value=first(result.xpath('./value/text()')),
-                    units=first(result.xpath('./units/text()'))
-                )
-            ]
-        )
-        yield compound
-    
-
-def parse_ff(list_of_sentences):
-    
-    #Takes a list of sentences and parses for quantified PCE
-    #information and relationships to chemicals/chemical labels
-    
-    Sentence.parsers.append(FfParser())
-
-    cde_senteces = [Sentence(sent).records.serialize()
-                    for sent in list_of_sentences]
-    return cde_senteces
-
-# Voc Parser
-class Voc(BaseModel):
-    value = StringType()
-    units = StringType()
-
-class VocParser(BaseParser):
-
-    units = (W(u'V') | I(u'v') | I(u'volt') | I(u'volts'))(u'units').add_action(merge)
-    abbrv_prefix = (I(u'Voc') | I(u'voc') | I(u'VOC')).hide()
-    words_pref = (I(u'open') + I(u'circuit') + I(u'voltage')).hide()
-    hyphanated_pref = (I(u'open') + I(u'-') + I('circuit') + I(u'voltage')).hide()
-
-    prefix = Optional(I('a')).hide() \
-        + (Optional(lbrct) + I('Voc') + Optional(rbrct) | Optional(I('open')) 
-           + Optional(I('circuit')) + Optional((I('voltage')))).hide() \
-        + Optional(lbrct + W('Voc') + rbrct) \
-        + Optional(W('=') | W('¼') | I('of') | I('was') | I('is') | I('at')).hide() \
-        + Optional(I('in') + I('the') + I('range') + Optional(I('of')) 
-                   | I('about') | I('average') | ('around') | I('V')).hide()
-
-    voc_first  = (words_pref + (Optional(lbrct) + abbrv_prefix + Optional(rbrct)) 
-                  + ZeroOrMore(COMMON_TEXT) + Optional(lbrct) + NUMERICAL_VALUE 
-                  + Optional(rbrct) + units)(u'voc')
-    voc_second = (prefix + Optional(lbrct) + NUMERICAL_VALUE 
-                  + Optional(rbrct) + units)(u'voc')
-    voc_pattern = voc_first | voc_second
-    root = voc_pattern
-
-    def interpret(self, result, start, end):
-        compound = Compound(
-            voc_pattern=[
-                Voc(
-                    value=first(result.xpath('./value/text()')),
-                    units=first(result.xpath('./units/text()'))
-                )
-            ]
-        )
-        yield compound
-
-    
-    
-    
+ 
