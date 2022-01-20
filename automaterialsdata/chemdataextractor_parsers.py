@@ -15,6 +15,18 @@ from chemdataextractor.doc.table import Table, Cell
 from functools import reduce
 import re
 
+
+TRANS_TABLE = ''.maketrans(
+    {'ﬁ': 'fi', '¼': '=', '∼': '~'}
+)
+
+def sentence_preprocessing(s):
+    text = s.text.translate(TRANS_TABLE)
+    text = re.sub(r'\(cid:[0-9]+\)', "-", text)
+    
+    return Sentence(text)
+
+
 """
 Notes from ChemDataExtractor:
 
