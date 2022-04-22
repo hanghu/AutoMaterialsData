@@ -1,0 +1,761 @@
+,0,1,2,V OC (V),J SC (mA/cm-2),FF (%),PCE (%)
+14_5_0,PPDTBT,,,0.76,9.77,0.58,4.27/4.12
+14_5_1,PPDTBT,,,0.81,10.40,0.61,5.08/4.89
+14_5_2,PPDTFBT,,,0.76,10.6,0.59,4.72/4.38
+14_5_3,PPDTFBT,,,0.81,10.2,0.62,5.11/5.02
+14_5_4,PPDT2FBT,,,0.78,12.9,0.71,7.18/6.94
+14_5_5,PPDT2FBT,,,0.86,11.40,0.74,7.26/7.06
+14_5_6,a Thermal annealing at 130 °C for 10 min.,,,a Thermal annealing at 130 °C for 10 min.,a Thermal annealing at 130 °C for 10 min.,a Thermal annealing at 130 °C for 10 min.,a Thermal annealing at 130 °C for 10 min.
+14_8_0,PPDTBT,,,0.70,11.73,0.63,5.17
+14_8_1,PPDTFBT,,,0.73,13.29,0.69,6.64
+14_8_2,PPDT2FBT,,,0.78,15.73,0.71,8.64
+14_8_3,PPDT2FBT,,,0.79,16.30,0.73,9.39
+14_8_4,"a J  SC [cal.], calculated JSC from a EQE curve.",,,"a J  SC [cal.], calculated JSC from a EQE curve.","a J  SC [cal.], calculated JSC from a EQE curve.","a J  SC [cal.], calculated JSC from a EQE curve.","a J  SC [cal.], calculated JSC from a EQE curve."
+33_6_0,PDTT,,,0.75,6.80,0.44,2.24
+33_6_1,PDTT,,,0.73,4.34,0.44,1.39
+33_6_2,PDTT,,,0.68,9.85,0.54,3.64
+33_6_3,a With 3% DIO additive (v/v).,,,a With 3% DIO additive (v/v).,a With 3% DIO additive (v/v).,a With 3% DIO additive (v/v).,a With 3% DIO additive (v/v).
+46_7_0,PBDTFQ-T:PC61BM (1:1.5),,,0.81,−9.29,68,5.12
+46_7_1,PBDTFQ-T:PC61BM (1.5:1),,,0.85,−8.64,67,4.91
+46_7_2,PBDTFQ-T:PC61BM (1:1),,,0.87,−5.46,46,2.18
+46_7_3,PBDTFQ-T:PC61BM (1:1),,,0.84 (0.84),−9.18 (−9.63),67 (70),5.30 (5.68)
+46_7_4,PBDTFQ-TT:PC61BM (1:1.5),,,0.81,−9.27,62,4.62
+46_7_5,PBDTFQ-TT:PC61BM (1.5:1),,,0.83,−10.48,58,5.05
+46_7_6,PBDTFQ-TT:PC61BM (1:1),,,0.82 (0.82),−10.87 (−11.18),59 (61),5.29 (5.60)
+46_7_7,PBDTFQ-TT:PC61BM (1:1),,,0.75,−9.53,45,3.19
+49_8_0,PBDT-TS1,,,0.807,17.55,0.672,9.52
+49_8_1,PBDT-TS2,,,0.813,16.52,0.623,8.37
+49_8_2,PBDT-TS3,,,0.809,16.22,0.56,7.36
+56_2_0,PBDFDTBT,,,,,,5.0
+56_2_1,PBDTDTBT,,,,,,5.6
+56_2_2,PFDTBT,,,,,,4.5
+56_2_3,PCDTBT,,,,,,3.6
+56_2_4,PSiDTBT,,,,,,3.4
+56_3_0,1:0.5,,,0.79,8.71,0.587,4.04
+56_3_1,1:0.8,,,0.78,9.10,0.606,4.30
+56_3_2,1:1,,,0.75,8.79,0.617,4.07
+56_3_3,1:1.5,,,0.78,10.00,0.598,4.66
+56_3_4,1:1.5a,,,0.78,11.77,0.546,5.01
+56_3_5,1:2,,,0.77,8.80,0.578,3.92
+56_3_6,a Annealed at 90 °C for 10 min.,,,a Annealed at 90 °C for 10 min.,a Annealed at 90 °C for 10 min.,a Annealed at 90 °C for 10 min.,a Annealed at 90 °C for 10 min.
+58_10_0,PBDTT-BT,,,0.88,5.83,36.0,1.85
+58_10_1,PBDTF-BT,,,0.85,8.41,40.3,2.88
+58_10_2,PBDFT-BT,,,0.79,8.82,57.4,4.0
+58_10_3,PBDFT-BT with 3% DIO,,,0.73,9.94,60.9,4.42
+58_10_4,PBDFF-BT,,,0.8,5.84,55.6,2.6
+59_12_0,PBDFFBT:PC71BM = 1:1,,,0.64,7.41,62.1,2.9
+59_12_1,PBDTFBT:PC71BM = 1:1,,,0.75,7.69,60.7,3.5
+59_12_2,PBDFFBT:PC71BM = 1:2,,,0.63,8.01,61.0,3.1
+59_12_3,PBDTFBT:PC71BM = 1:2,,,0.72,9.31,60.0,4.0
+59_12_4,PBDFFBT:PC71BM = 1:3,,,0.62,9.17,58.4,3.3
+59_12_5,PBDTFBT:PC71BM = 1:3,,,0.71,9.41,54.5,3.7
+60_4_0,1:1,,,0.86,10.4,64.4,5.7
+60_4_1,1:2,,,0.81,9.7,57.2,4.5
+60_4_2,1:3,,,0.8,8.5,59.5,4.0
+60_4_3,1:4,,,0.8,7.1,57.1,3.2
+61_8_0,PBDTDTBTz:PC61BM (1:3),,,0.61,,55,1.5
+61_8_1,PBDTDTBTz:PC71BM (1:4),,,0.61,,62,1.7
+61_8_2,PBDTBTz:PC61BM (1:3),,,0.61,,37,0.7
+61_8_3,PBDTBTz:PC71BM (1:4),,,0.61,,47,1.4
+62_8_0,PBDTTDTBO,,,0.84,11.45,61.3,5.9
+62_8_1,PBDTTDTBT,,,0.75,10.29,64.0,4.94
+62_8_2,PBDTTDTBTz,,,0.54,9.47,60.6,3.1
+62_8_3,a Measured by using the space-charge-limited current (SCLC) method.b Measured by using the organic field-effect transistor (OFET) method.,,,a Measured by using the space-charge-limited current (SCLC) method.b Measured by using the organic field-effect transistor (OFET) method.,a Measured by using the space-charge-limited current (SCLC) method.b Measured by using the organic field-effect transistor (OFET) method.,a Measured by using the space-charge-limited current (SCLC) method.b Measured by using the organic field-effect transistor (OFET) method.,a Measured by using the space-charge-limited current (SCLC) method.b Measured by using the organic field-effect transistor (OFET) method.
+64_6_0,PBDT-T-FBSe,,,0.78,11.8,0.54,5.0
+64_6_1,PIDT-T-FBSe,,,0.83,10.57,0.53,4.65
+69_8_0,PBDTPO-DTBO:PC71BM = 1:1.5,,,0.89,11.0,64,6.2
+69_8_1,PBDTPO-DTBT:PC71BM = 1:2,,,0.78,9.3,47,3.4
+71_10_0,PTBFTDTBT:PC61BM = 1:1,,,0.8,11.89,57.4,5.46
+71_10_1,PTBFTDTBT:PC61BM = 1:2,,,0.79,11.64,58.0,5.33
+71_10_2,PTBFTDTBT:PC61BM = 1:3,,,0.74,11.21,52.1,5.32
+71_10_3,PTBFTDTBT:PC71BM = 1:1,,,0.8,14.21,51.4,5.84
+71_10_4,PTBFTDTBT:PC71BM = 1:2,,,0.78,13.51,61.0,6.42
+71_10_5,PTBFTDTBT:PC71BM = 1:3,,,0.72,12.74,61.3,5.62
+71_10_6,PBDTTDTBT:PC71BM = 1:1.512a,,,0.75,10.29,64.0,4.94
+73_10_0,P1,,,0.69,6.15 (5.89),44.3,1.88 (1.80)
+73_10_1,P2,,,0.69,8.89 (8.83),55.4,3.40 (3.38)
+73_10_2,"a Polymer/PC71BM weight raio.  b Containing 1.8-diiodooctane (2.5% volume ratio) as additives.  c TCB = 1,2,4-trichlorobenzene.  d Data calculated from EQE spectrum are shown in bracket.",,,,,,
+80_12_0,P(BDT-TT-HBT),,,0.72,8.8,0.52,3.29
+80_12_1,P(BDT-TT-HBT),,,0.72,10.12,0.6,4.37
+80_12_2,P(BDT-TT-HBT),,,0.74,9.68,0.6,4.29
+80_12_3,P(BDT-TT-FBT),,,0.82,6.2,0.59,3.0
+80_12_4,P(BDT-TT-FBT),,,0.81,8.0,0.55,3.56
+80_12_5,P(BDT-TT-FBT),,,0.79,7.92,0.52,3.25
+80_17_0,25,,,,,3.7 × 104,
+80_17_1,80,,,,,3.1 × 104,
+80_17_2,120,,,,,3.1 × 104,
+80_17_3,160,,,,,3.1 × 104,
+80_17_4,200,,,,,3.7 × 104,
+80_17_5,a I  on/Ioff refers to the corresponding on-to-off current ratio at the maximum hole mobility.,,,,,a I  on/Ioff refers to the corresponding on-to-off current ratio at the maximum hole mobility.,
+81_7_0,PBDTT–DTTBT:PC70BM 1.5:1,,,0.8,11.35,51.5,4.68
+81_7_1,PBDTT–DTTBT:PC70BM 1:1,,,0.78,12.46,62.0,6.03
+81_7_2,PBDTT–DTTBT:PC70BM 1:1.5,,,0.77,9.0,57.4,3.99
+81_7_3,PBDTT–DTBT:PC70BM1.5:1,,,0.82,5.01,46.6,1.91
+81_7_4,PBDTT–DTBT:PC70BM 1:1,,,0.82,5.78,49.5,2.34
+81_7_5,PBDTT–DTBT:PC70BM 1:1.5,,,0.79,4.23,49.7,1.66
+82_8_0,PBDT–TBT,,,0.95,9.60,48.2,4.4
+82_8_1,PBDT–TBT,,,0.96,9.10,51.8,4.9
+82_8_2,PBDT–TTBT,,,0.77,11.82,60.5,5.5
+82_8_3,PBDT–TTBT,,,0.80,11.83,66.6,6.3
+82_8_4,"a Annealing at 90 °C, 10 min under the illumination of AM 1.5G, 100 mW cm−2 light.",,,"a Annealing at 90 °C, 10 min under the illumination of AM 1.5G, 100 mW cm−2 light.","a Annealing at 90 °C, 10 min under the illumination of AM 1.5G, 100 mW cm−2 light.","a Annealing at 90 °C, 10 min under the illumination of AM 1.5G, 100 mW cm−2 light.","a Annealing at 90 °C, 10 min under the illumination of AM 1.5G, 100 mW cm−2 light."
+86_3_0,1:2,,,0.86,6.61,58.8,3.34
+86_3_1,1:2,,,0.82,7.18,56.1,3.31
+86_3_2,1:2,,,0.89,6.61,59.1,3.48
+86_3_3,1:2,,,0.92,7.96,65.8,4.88
+86_3_4,1:2,,,0.9,7.63,57.8,3.97
+91_2_0,PDPP2TBP,,,0.80,11.5,0.63,5.7
+91_2_1,F1-PDPP2TBP,,,0.89,6.7,0.62,3.7
+91_2_2,F2-PDPP2TBP,,,0.93,7.7,0.56,4.1
+91_2_3,a J  sc and PCE were calculated by integrating the EQE spectrum with the AM1.5G spectrum.,,,a J  sc and PCE were calculated by integrating the EQE spectrum with the AM1.5G spectrum.,a J  sc and PCE were calculated by integrating the EQE spectrum with the AM1.5G spectrum.,a J  sc and PCE were calculated by integrating the EQE spectrum with the AM1.5G spectrum.,a J  sc and PCE were calculated by integrating the EQE spectrum with the AM1.5G spectrum.
+94_5_0,reg-PDPP/TPDalt2T,,,0.78 (0.78),9.95 (9.60),0.68 (0.68),5.3 (5.1)
+94_5_1,ran-PDPP/TPDalt2T,,,0.74 (0.73),2.31 (2.13),0.61 (0.59),1.0 (0.9)
+94_5_2,PDPP2T,,,0.68 (0.67),2.03 (1.93),0.50 (0.52),0.7 (0.7)
+94_5_3,a Determined by integrating the EQE spectrum with the AM1.5G spectrum. The values in brackets are average values of 8 nominally identical devices.,,,a Determined by integrating the EQE spectrum with the AM1.5G spectrum. The values in brackets are average values of 8 nominally identical devices.,a Determined by integrating the EQE spectrum with the AM1.5G spectrum. The values in brackets are average values of 8 nominally identical devices.,a Determined by integrating the EQE spectrum with the AM1.5G spectrum. The values in brackets are average values of 8 nominally identical devices.,a Determined by integrating the EQE spectrum with the AM1.5G spectrum. The values in brackets are average values of 8 nominally identical devices.
+97_7_0,TT1:PC61BM,,,0.56,2.83,0.38,0.60 (0.48)
+97_7_1,TT2:PC61BM,,,0.58,8.54,0.69,3.40 (3.22)
+97_7_2,BT1:PC61BM,,,0.73,6.72,0.67,3.29 (3.21)
+97_7_3,BT2:PC61BM,,,0.62,9.01,0.66,3.74 (3.47)
+97_7_4,BT2:PC71BM,,,0.62,10.07,0.67,4.18 (3.92)
+97_7_5,a Normal cell structure (PEDOT:PSS/active layer/Ca/Al). The active layers were fabricated by chlorobenzene solution with 3 v/v % DIO or CN. No thermal annealing was applied for the active layer.  b In weight% fraction.  c Thickness of the active layer.  d The maximum PCE. The value in the brackets is an average PCE over at least 5 devices.  e The calculated Jsc by integrating the EQE spectrum. The value in the brackets is Jsc/Jcalcsc.,,,a Normal cell structure (PEDOT:PSS/active layer/Ca/Al). The active layers were fabricated by chlorobenzene solution with 3 v/v % DIO or CN. No thermal annealing was applied for the active layer.  b In weight% fraction.  c Thickness of the active layer.  d The maximum PCE. The value in the brackets is an average PCE over at least 5 devices.  e The calculated Jsc by integrating the EQE spectrum. The value in the brackets is Jsc/Jcalcsc.,a Normal cell structure (PEDOT:PSS/active layer/Ca/Al). The active layers were fabricated by chlorobenzene solution with 3 v/v % DIO or CN. No thermal annealing was applied for the active layer.  b In weight% fraction.  c Thickness of the active layer.  d The maximum PCE. The value in the brackets is an average PCE over at least 5 devices.  e The calculated Jsc by integrating the EQE spectrum. The value in the brackets is Jsc/Jcalcsc.,a Normal cell structure (PEDOT:PSS/active layer/Ca/Al). The active layers were fabricated by chlorobenzene solution with 3 v/v % DIO or CN. No thermal annealing was applied for the active layer.  b In weight% fraction.  c Thickness of the active layer.  d The maximum PCE. The value in the brackets is an average PCE over at least 5 devices.  e The calculated Jsc by integrating the EQE spectrum. The value in the brackets is Jsc/Jcalcsc.,a Normal cell structure (PEDOT:PSS/active layer/Ca/Al). The active layers were fabricated by chlorobenzene solution with 3 v/v % DIO or CN. No thermal annealing was applied for the active layer.  b In weight% fraction.  c Thickness of the active layer.  d The maximum PCE. The value in the brackets is an average PCE over at least 5 devices.  e The calculated Jsc by integrating the EQE spectrum. The value in the brackets is Jsc/Jcalcsc.
+101_9_0,PBDTT-TT,,,0.78,15.41,61.25,7.38 [7.29]
+101_9_1,PBDTT-TT,,,0.77,14.99,63.92,7.42 [7.35]
+101_9_2,PBDTT-O-TT,,,0.74,14.67,61.50,6.68 [6.56]
+101_9_3,PBDTT-O-TT,,,0.73,15.17,64.44,7.10 [7.01]
+101_9_4,PBDTT-S-TT,,,0.84,15.32,65.49,8.42 [8.35]
+101_9_5,PBDTT-S-TT,,,0.83,15.49,59.01,7.58 [7.46]
+101_9_6,a The values in square brackets are the average PCE obtained from 20 devices.,,,a The values in square brackets are the average PCE obtained from 20 devices.,a The values in square brackets are the average PCE obtained from 20 devices.,a The values in square brackets are the average PCE obtained from 20 devices.,a The values in square brackets are the average PCE obtained from 20 devices.
+122_10_0,PT  –C1,,,0.81,5.31,0.392,1.69
+122_10_1,PT  –C2,,,0.81,5.44,0.484,2.14
+122_10_2,PT  –C3,,,0.77,7.22,0.584,3.25
+122_10_3,P3HT  a,,,0.62,7.07,0.547,2.4
+122_10_4,a The device was fabricated with the same experimental conditions as that used in fabricating the PSCs for the carboxylate substituted PTs.,,,,,,
+122_13_0,PT  –C3:PC70BM = 1:1,,,0.77,7.22,0.584,3.25
+122_13_1,PT  –C3:PC70BM = 1:1.5,,,0.78,9.68,0.512,3.87
+122_13_2,PT  –C3:PC70BM = 1:2,,,0.82,6.43,0.529,2.79
+126_4_0,POPT∶PC61BM (1∶1),,,0.56,5.16,0.6,1.71
+126_4_1,POPTT∶PC61BM (1∶3),,,0.63,6.83,0.4,1.73
+126_4_2,POPQT∶PC61BM (1∶3),,,0.75,7.69,0.48,2.77
+126_4_3,POPQT∶PC71BM (1∶3),,,0.71,8.67,0.56,3.44
+132_4_0,1:0.8,,,0.85,7.32,0.7,4.3
+132_4_1,1:1,,,0.85,7.85,0.69,4.6
+132_4_2,1:1.2,,,0.84,7.58,0.69,4.4
+132_4_3,1:2,,,0.86,5.96,0.71,3.6
+132_4_4,a Polymer solar cell device having the structure ITO/PEDOT:PSS/active layer/Al.  b DIO (1 vol%) was added as an additive.,,,,,,
+132_5_0,1:1,,,0.82,6.24,0.64,3.3
+132_5_1,1:1,,,0.85,8.99,0.67,5.1
+132_5_2,1:1,,,0.84,7.93,0.67,4.5
+136_6_0,PPDT1  a,,,0.87,8.30,45.3,3.28
+136_6_1,PPDT2  a,,,0.85,9.26,52.1,4.08
+136_6_2,PPDT3  b,,,0.89,8.50,70.6,5.33
+136_6_3,PPDT4  a,,,0.86,3.50,31.6,0.95
+136_6_4,PPDT5  a,,,0.75,8.47,40.5,2.57
+136_6_5,"a Active layers are processed with achloroform and bchlorobenzene, respectively.",,,"a Active layers are processed with achloroform and bchlorobenzene, respectively.","a Active layers are processed with achloroform and bchlorobenzene, respectively.","a Active layers are processed with achloroform and bchlorobenzene, respectively.","a Active layers are processed with achloroform and bchlorobenzene, respectively."
+138_5_0,P1,,,0.87,8.8,41.1,3.14
+138_5_1,P1,,,0.89,10.37,54.7,5.05
+138_5_2,P2,,,0.89,8.6,66.4,5.08
+138_5_3,P2,,,0.91,9.96,74.5,6.76
+139_8_0,PDTPO-BDTO:PC71BM,,,0.85,9.14,55.1,4.28
+139_8_1,PDTPO-BDTO:PC71BM,,,0.92,9.48,65.3,5.70
+139_8_2,PDTPO-BDTO:PC71BM,,,0.92,9.46 (10.1),71.2,6.19
+139_8_3,PDTPO-BDTO:PC71BM,,,0.95,8.36,67.3,5.34
+139_8_4,PDTPO-BDTO:PC71BM,,,0.93,10.4 (10.0),70.6,6.84
+139_8_5,PDTPO-BDTT:PC71BM,,,0.86,9.95,55.6,4.74
+139_8_6,PDTPO-BDTT:PC71BM,,,0.96,9.68,69.4,6.45
+139_8_7,PDTPO-BDTT:PC71BM,,,0.96,10.1 (10.5),70.5,6.84
+139_8_8,PDTPO-BDTT:PC71BM,,,0.98,9.07,71.6,6.37
+139_8_9,PDTPO-BDTT:PC71BM,,,0.94,10.3 (10.4),68.0,6.61
+139_8_10,a THF solvent annealing before spin-coating the PFN layer.  b The values in the parentheses are the integrated current density calculated from the IPCE spectrum.,,,a THF solvent annealing before spin-coating the PFN layer.  b The values in the parentheses are the integrated current density calculated from the IPCE spectrum.,a THF solvent annealing before spin-coating the PFN layer.  b The values in the parentheses are the integrated current density calculated from the IPCE spectrum.,a THF solvent annealing before spin-coating the PFN layer.  b The values in the parentheses are the integrated current density calculated from the IPCE spectrum.,a THF solvent annealing before spin-coating the PFN layer.  b The values in the parentheses are the integrated current density calculated from the IPCE spectrum.
+139_13_0,PDTPO-BDTO,,,0.93,10.4,0.70,6.84
+139_13_1,PDTPO-BDTT,,,0.96,10.1,0.70,6.84
+139_13_2,PTADTBTO,,,0.85,11.02,0.59,4.64
+139_13_3,PBDT[2F]T,,,0.9,10.7,0.72,7.0
+139_13_4,BTT-BTz,,,0.81,10.9,0.57,5.06
+139_13_5,PIDTT-TzTz,,,0.9,10.41,0.59,5.9
+139_13_6,PBDTT,,,0.93,11.95,0.55,6.12
+139_13_7,HMW-P1,,,0.90,12.72,0.57,6.52
+139_13_8,PBnDT-FTAZ,,,0.79,12.45,0.72,7.10
+139_13_9,a Results from cyclic voltammetry.  b Achieved with the inverted architecture (see Fig. S5b).  c Achieved with the conventional architecture (see Fig. S5a).  d Results from ultraviolet photoelectron spectroscopy.,,,a Results from cyclic voltammetry.  b Achieved with the inverted architecture (see Fig. S5b).  c Achieved with the conventional architecture (see Fig. S5a).  d Results from ultraviolet photoelectron spectroscopy.,a Results from cyclic voltammetry.  b Achieved with the inverted architecture (see Fig. S5b).  c Achieved with the conventional architecture (see Fig. S5a).  d Results from ultraviolet photoelectron spectroscopy.,a Results from cyclic voltammetry.  b Achieved with the inverted architecture (see Fig. S5b).  c Achieved with the conventional architecture (see Fig. S5a).  d Results from ultraviolet photoelectron spectroscopy.,a Results from cyclic voltammetry.  b Achieved with the inverted architecture (see Fig. S5b).  c Achieved with the conventional architecture (see Fig. S5a).  d Results from ultraviolet photoelectron spectroscopy.
+140_3_0,Conventional,,,0.96,10.76,61.0,6.30 (6.12)
+140_3_1,Conventional,,,0.98,11.56,70.1,7.94 (7.60)
+140_3_2,Inverted,,,0.96,12.59,75.5,9.13 (8.98)
+140_3_3,a Data in parentheses stand for the average PCEs of 10 cells.,,,a Data in parentheses stand for the average PCEs of 10 cells.,a Data in parentheses stand for the average PCEs of 10 cells.,a Data in parentheses stand for the average PCEs of 10 cells.,a Data in parentheses stand for the average PCEs of 10 cells.
+148_9_0,PC1,,,0.88 ± 0.02,5.77 ± 0.48,44.1 ± 0.6,2.30 ± 0.22 (2.45)
+148_9_1,PC2,,,0.94 ± 0.01,12.84 ± 1.38,58.7 ± 3.9,7.10 ± 0.16 (7.26)
+148_9_2,PC3,,,0.93 ± 0.01,11.18 ± 0.49,63.3 ± 2.6,6.60 ± 0.10 (6.68)
+148_9_3,"a Blend ratio of polymer: PC71BM.  b A mixed solvent of o-DCB:CB (1:4, v/v) is used, 0.5% (v/v) DIO as an additive.  c The data have been averaged over 8 devices of different batches. The performance of the best device is given in parentheses.",,,"a Blend ratio of polymer: PC71BM.  b A mixed solvent of o-DCB:CB (1:4, v/v) is used, 0.5% (v/v) DIO as an additive.  c The data have been averaged over 8 devices of different batches. The performance of the best device is given in parentheses.","a Blend ratio of polymer: PC71BM.  b A mixed solvent of o-DCB:CB (1:4, v/v) is used, 0.5% (v/v) DIO as an additive.  c The data have been averaged over 8 devices of different batches. The performance of the best device is given in parentheses.","a Blend ratio of polymer: PC71BM.  b A mixed solvent of o-DCB:CB (1:4, v/v) is used, 0.5% (v/v) DIO as an additive.  c The data have been averaged over 8 devices of different batches. The performance of the best device is given in parentheses.","a Blend ratio of polymer: PC71BM.  b A mixed solvent of o-DCB:CB (1:4, v/v) is used, 0.5% (v/v) DIO as an additive.  c The data have been averaged over 8 devices of different batches. The performance of the best device is given in parentheses."
+148_10_0,1:4,,,0.98 ± 0.01,10.86 ± 0.35,53.9 ± 1.0,5.75 ± 0.27 (6.02)
+148_10_1,1:4,,,0.95 ± 0.01,11.21 ± 0.42,57.1 ± 1.5,6.07 ± 0.21 (6.21)
+148_10_2,1:3,,,0.95 ± 0.01,13.40 ± 0.98,54.7 ± 2.5,6.95 ± 0.29 (7.24)
+148_10_3,"a A mixed solvent of o-DCB:CB (1:4, v/v) is used.  b Blend ratio of polymer:PC71BM.  c The data have been averaged over 8 devices of different batches. The performance of the best device is given in parentheses.",,,"a A mixed solvent of o-DCB:CB (1:4, v/v) is used.  b Blend ratio of polymer:PC71BM.  c The data have been averaged over 8 devices of different batches. The performance of the best device is given in parentheses.","a A mixed solvent of o-DCB:CB (1:4, v/v) is used.  b Blend ratio of polymer:PC71BM.  c The data have been averaged over 8 devices of different batches. The performance of the best device is given in parentheses.","a A mixed solvent of o-DCB:CB (1:4, v/v) is used.  b Blend ratio of polymer:PC71BM.  c The data have been averaged over 8 devices of different batches. The performance of the best device is given in parentheses.","a A mixed solvent of o-DCB:CB (1:4, v/v) is used.  b Blend ratio of polymer:PC71BM.  c The data have been averaged over 8 devices of different batches. The performance of the best device is given in parentheses."
+152_7_0,P2,,,0.8,3.43,54.7,1.50 (1.46)
+152_7_1,P3,,,0.89,7.01,58.6,3.70 (3.65)
+152_11_0,P2,,,,,1.1 × 103,
+152_11_1,P3,,,,,2.3 × 105,
+152_11_2,a By using organic thin-film transistors.b By using space-charge limited current method.,,,,,a By using organic thin-film transistors.b By using space-charge limited current method.,
+166_10_0,PV-BDTC1/PC71BM,,,0.93,5.90,59.39,3.25
+166_10_1,PV-BDTC1/PC61BM,,,0.91,5.99,39.5,2.25
+166_10_2,PV-BDTC2/PC71BM,,,1.04,8.93,60.8,5.61
+166_10_3,PV-BDTC2/PC71BMd,,,1.03,10.37,70.0,7.49
+166_10_4,PV-BDTC2/PC61BMd,,,1.02,9.87,61.2,6.32
+166_10_5,a J  sc measured from solar cells.  b J  sc estimated from EQE spectra.  c Obtained from 20 devices.  d 3% DIO additive.,,,a J  sc measured from solar cells.  b J  sc estimated from EQE spectra.  c Obtained from 20 devices.  d 3% DIO additive.,a J  sc measured from solar cells.  b J  sc estimated from EQE spectra.  c Obtained from 20 devices.  d 3% DIO additive.,a J  sc measured from solar cells.  b J  sc estimated from EQE spectra.  c Obtained from 20 devices.  d 3% DIO additive.,a J  sc measured from solar cells.  b J  sc estimated from EQE spectra.  c Obtained from 20 devices.  d 3% DIO additive.
+169_6_0,PBDT(O)-T1:PC70BM,,,0.83 ± 0.01,9.6 ± 0.2 (9.1),49.5 ± 0.6,4.0 ± 0.1
+169_6_1,PBDT(S)-T1:PC70BM,,,0.89 ± 0.01,12.2 ± 0.1 (12.1),67.7 ± 0.4,7.3 ± 0.1
+169_6_2,PBDT(Se)-T1:PC70BM,,,0.91 ± 0.01,13.0 ± 0.1 (12.6),71.7 ± 0.4,8.4 ± 0.1
+169_6_3,a The values in parentheses are the Jsc calculated from the IPCE spectrum for the optimal devices.  b The average values were calculated from 6 devices for each condition.,,,a The values in parentheses are the Jsc calculated from the IPCE spectrum for the optimal devices.  b The average values were calculated from 6 devices for each condition.,a The values in parentheses are the Jsc calculated from the IPCE spectrum for the optimal devices.  b The average values were calculated from 6 devices for each condition.,a The values in parentheses are the Jsc calculated from the IPCE spectrum for the optimal devices.  b The average values were calculated from 6 devices for each condition.,a The values in parentheses are the Jsc calculated from the IPCE spectrum for the optimal devices.  b The average values were calculated from 6 devices for each condition.
+171_6_0,PBDT-O1:PC70BM,,,0.88 ± 0.01,5.3 ± 0.1,39.1 ± 0.7,1.8 ± 0.1
+171_6_1,PBDT-O1:PC70BM,,,0.86 ± 0.01,9.3 ± 0.1,63.3 ± 0.7,5.1 ± 0.1
+171_6_2,PBDT-O1:PC70BM,,,0.85 ± 0.01,7.6 ± 0.3,53.5. ± 0.7,3.4 ± 0.1
+171_6_3,,,,,,,
+171_6_4,PBDT-ST1:PC70BM,,,0.92 ± 0.01,7.5 ± 0.2,36.5 ± 0.2,2.5 ± 0.1
+171_6_5,PBDT-ST1:PC70BM,,,0.90 ± 0.01,13.4 ± 0.3,74.2 ± 0.5,8.9 ± 0.2
+171_6_6,PBDT-ST1:PC70BM,,,0.86 ± 0.01,12.5 ± 0.2,69.9 ± 0.7,7.5 ± 0.2
+171_6_7,,,,,,,
+171_6_8,PBDT-Se1:PC70BM,,,0.87 ± 0.01,10.3 ± 0.5,51.4 ± 0.5,4.6 ± 0.1
+171_6_9,PBDT-Se1:PC70BM,,,0.85 ± 0.01,12.9 ± 0.2,73.6 ± 1.1,8.1 ± 0.1
+171_6_10,PBDT-Se1:PC70BM,,,0.85 ± 0.01,12.6 ± 0.2,71.3 ± 1.5,7.7 ± 0.2
+171_6_11,a The average PCE value was calculated from 10 devices for each condition.,,,a The average PCE value was calculated from 10 devices for each condition.,a The average PCE value was calculated from 10 devices for each condition.,a The average PCE value was calculated from 10 devices for each condition.,a The average PCE value was calculated from 10 devices for each condition.
+175_4_0,P1:PC71BM (1:1.6),,,0.96,6.47,53.8,3.34
+175_4_1,P1:PC71BM (1:1.6),,,0.9,9.26,63.6,5.3
+175_4_2,P2:PC71BM (1:1),,,0.95,4.16,58.2,2.3
+175_4_3,P2:PC71BM (1:1),,,0.91,9.6,55.8,4.87
+175_4_4,P3:PC71BM (1:1.2),,,0.9,1.75,63.2,1.0
+175_4_5,P3:PC71BM (1:1.2),,,0.87,7.62,54.9,3.64
+175_4_6,P4:PC71BM (1:1),,,0.87,3.19,53.9,1.5
+175_4_7,P4:PC71BM (1:1),,,0.8,10.31,42.2,3.48
+176_5_0,0,0.97,,0.97,1.53,52.1,0.8
+176_5_1,1,,,0.96,7.88,68.3,5.18
+176_5_2,3,,,0.98,8.12,69.5,5.53
+176_5_3,5,,,1.0,7.92,65.8,5.22
+177_9_0,PSBT,,,0.96,9.66,47.7,4.41 (4.21 ± 0.10)
+177_9_1,PSBT,,,0.94,11.11,49.6,5.18 (5.12 ± 0.05)
+177_9_2,PSBT,,,0.95,9.14,50.9,4.41 (4.34 ± 0.05)
+177_9_3,PSBO,,,0.96,8.60,40.1,3.29 (3.22 ± 0.04)
+177_9_4,PSDTBT,,,0.90,9.50,41.3,3.52 (3.47 ± 0.04)
+177_9_5,"a Blend ratio of polymer:PC71BM.  b A mixed solvent of o-DCB:CB (1:3, v/v) is used.  c The average PCEs with standard deviations are given in parentheses which are obtained from 8 devices.",,,"a Blend ratio of polymer:PC71BM.  b A mixed solvent of o-DCB:CB (1:3, v/v) is used.  c The average PCEs with standard deviations are given in parentheses which are obtained from 8 devices.","a Blend ratio of polymer:PC71BM.  b A mixed solvent of o-DCB:CB (1:3, v/v) is used.  c The average PCEs with standard deviations are given in parentheses which are obtained from 8 devices.","a Blend ratio of polymer:PC71BM.  b A mixed solvent of o-DCB:CB (1:3, v/v) is used.  c The average PCEs with standard deviations are given in parentheses which are obtained from 8 devices.","a Blend ratio of polymer:PC71BM.  b A mixed solvent of o-DCB:CB (1:3, v/v) is used.  c The average PCEs with standard deviations are given in parentheses which are obtained from 8 devices."
+178_4_0,PThTITI,,,0.92,2.39,61.6,1.35
+178_4_1,PThTITI,,,0.96,8.28,69.8,5.53
+178_4_2,PSeTITI,,,0.93,1.98,65.4,1.2
+178_4_3,PSeTITI,,,0.94,9.35,70.5,6.17
+179_5_0,PThTD1,,,0.87,9.67,71.59,6.02 (5.86 ± 0.15)
+179_5_1,PSeTD1,,,0.83,10.92,68.67,6.22 (5.96 ± 0.16)
+179_5_2,PThTD2,,,0.85,11.95,67.96,6.90 (6.65 ± 0.18)
+179_5_3,PSeTD2,,,0.85,13.55,71.06,8.18 (7.95 ± 0.19)
+179_5_4,a Average PCEs and standard deviations in the brackets were obtained for 10 cells.,,,a Average PCEs and standard deviations in the brackets were obtained for 10 cells.,a Average PCEs and standard deviations in the brackets were obtained for 10 cells.,a Average PCEs and standard deviations in the brackets were obtained for 10 cells.,a Average PCEs and standard deviations in the brackets were obtained for 10 cells.
+181_6_0,PDTPO-IDT,,,0.98,9.85,64.9,6.24 (5.97)
+181_6_1,PDTPO-IDT,,,0.97,10.55,71.5,7.33 (7.17)
+181_6_2,PDTPO-IDTT,,,0.95,8.48,59.8,4.83 (4.81)
+181_6_3,PDTPO-IDTT,,,0.94,9.14,63.9,5.47 (5.40)
+181_6_4,a The values in parentheses are average efficiencies obtained from 20 devices.,,,a The values in parentheses are average efficiencies obtained from 20 devices.,a The values in parentheses are average efficiencies obtained from 20 devices.,a The values in parentheses are average efficiencies obtained from 20 devices.,a The values in parentheses are average efficiencies obtained from 20 devices.
+181_8_0,PDTPO-IDT,,,0.97,10.55,0.71,7.33
+181_8_1,PDTPO-IDTT,,,0.94,9.14,0.64,5.43
+181_8_2,PDTPO-BDTO,,,0.93,10.4,0.70,6.84
+181_8_3,PTADTBTO,,,0.85,11.02,0.59,4.64
+181_8_4,PBDTT,,,0.93,11.95,0.55,6.12
+181_8_5,PBDT[2F]T,,,0.9,10.7,0.72,7.0
+181_8_6,PIDTT-TzTz,,,0.9,10.41,0.59,5.9
+181_8_7,BTT-BTz,,,0.81,10.9,0.57,5.06
+181_8_8,HMW-P1,,,0.90,12.72,0.57,6.52
+181_8_9,PBnDT-FTAZ,,,0.79,12.45,0.72,7.10
+181_8_10,PPDT1,,,0.87,8.30,0.45,3.28
+181_8_11,a Obtained from cyclic voltammetry.  b Achieved with an inverted architecture.  c Obtained from ultraviolet photoelectron spectroscopy.,,,a Obtained from cyclic voltammetry.  b Achieved with an inverted architecture.  c Obtained from ultraviolet photoelectron spectroscopy.,a Obtained from cyclic voltammetry.  b Achieved with an inverted architecture.  c Obtained from ultraviolet photoelectron spectroscopy.,a Obtained from cyclic voltammetry.  b Achieved with an inverted architecture.  c Obtained from ultraviolet photoelectron spectroscopy.,a Obtained from cyclic voltammetry.  b Achieved with an inverted architecture.  c Obtained from ultraviolet photoelectron spectroscopy.
+185_2_0,P1,,,0.619,14.14,59.82,5.26 [5.09]a
+185_2_1,P1,,,0.622,14.71,62.43,5.21 [5.46]a
+185_2_2,P1,,,0.605,15.92,62.92,6.06 [5.91]a
+185_2_3,P1,,,0.618,16.44,62.16,6.32 [6.16]b
+185_2_4,P1,,,0.597,17.77,63.13,6.70 [6.48]b
+185_2_5,P2,,,0.587,11.73,42.92,2.95 [2.84]b
+185_2_6,P2,,,0.608,12.20,47.86,3.55 [3.40]a
+185_2_7,P2,,,0.607,14.02,49.51,4.21 [4.01]a
+185_2_8,P2,,,0.603,15.21,48.58,4.45 [4.37]b
+185_2_9,P3,,,0.627,15.93,64.76,"6.47 [6.23]a,e"
+185_2_10,P3,,,0.633,18.15,65.20,"7.50 [7.32]b,e"
+185_2_11,a Structure of ITO/PEDOT:PSS/polymer:PC71BM (1:1 weight ratio)/Ca/Al.  b Inverted structure of ITO/ZnO/polymer:PC71BM (1:1 weight ratio)/MoO3/Ag.  c Devices were fabricated from blend without (N) or with (Y) 3% (v/v) DIO as a processing additive.  d Thermal annealing.  e Polymer:PC71BM (1:1.5 weight ratio).  f The values in square brackets indicate the average values of PCEs obtained from more than twenty devices.,,,a Structure of ITO/PEDOT:PSS/polymer:PC71BM (1:1 weight ratio)/Ca/Al.  b Inverted structure of ITO/ZnO/polymer:PC71BM (1:1 weight ratio)/MoO3/Ag.  c Devices were fabricated from blend without (N) or with (Y) 3% (v/v) DIO as a processing additive.  d Thermal annealing.  e Polymer:PC71BM (1:1.5 weight ratio).  f The values in square brackets indicate the average values of PCEs obtained from more than twenty devices.,a Structure of ITO/PEDOT:PSS/polymer:PC71BM (1:1 weight ratio)/Ca/Al.  b Inverted structure of ITO/ZnO/polymer:PC71BM (1:1 weight ratio)/MoO3/Ag.  c Devices were fabricated from blend without (N) or with (Y) 3% (v/v) DIO as a processing additive.  d Thermal annealing.  e Polymer:PC71BM (1:1.5 weight ratio).  f The values in square brackets indicate the average values of PCEs obtained from more than twenty devices.,a Structure of ITO/PEDOT:PSS/polymer:PC71BM (1:1 weight ratio)/Ca/Al.  b Inverted structure of ITO/ZnO/polymer:PC71BM (1:1 weight ratio)/MoO3/Ag.  c Devices were fabricated from blend without (N) or with (Y) 3% (v/v) DIO as a processing additive.  d Thermal annealing.  e Polymer:PC71BM (1:1.5 weight ratio).  f The values in square brackets indicate the average values of PCEs obtained from more than twenty devices.,a Structure of ITO/PEDOT:PSS/polymer:PC71BM (1:1 weight ratio)/Ca/Al.  b Inverted structure of ITO/ZnO/polymer:PC71BM (1:1 weight ratio)/MoO3/Ag.  c Devices were fabricated from blend without (N) or with (Y) 3% (v/v) DIO as a processing additive.  d Thermal annealing.  e Polymer:PC71BM (1:1.5 weight ratio).  f The values in square brackets indicate the average values of PCEs obtained from more than twenty devices.
+192_8_0,P1:PC71BM (1:2)a,,,0.82,1.05,32,0.27
+192_8_1,P1:PC71BM (1:2)b,,,0.74,0.83,28,0.17
+192_8_2,P2:PC71BM (1:2)b,,,0.44,7.6,49,1.63
+192_8_3,"P2:PC71BM (1:2)b,c",,,0.44,8.8,39,1.50
+192_8_4,P3:PC71BM (1:2)a,,,0.44,9.5,55,2.30
+192_8_5,P3:PC71BM (1:2)b,,,0.48,9.0,50,2.16
+192_8_6,a Without thermal annealing.  b Annealing at 70 °C for 10 min.  c Inverted device.  d Measured by using the space-charge-limited current method (see ESI).,,,a Without thermal annealing.  b Annealing at 70 °C for 10 min.  c Inverted device.  d Measured by using the space-charge-limited current method (see ESI).,a Without thermal annealing.  b Annealing at 70 °C for 10 min.  c Inverted device.  d Measured by using the space-charge-limited current method (see ESI).,a Without thermal annealing.  b Annealing at 70 °C for 10 min.  c Inverted device.  d Measured by using the space-charge-limited current method (see ESI).,a Without thermal annealing.  b Annealing at 70 °C for 10 min.  c Inverted device.  d Measured by using the space-charge-limited current method (see ESI).
+199_10_0,P1,,,0.82,12.75,0.55,5.76
+199_10_1,P2,,,0.78,8.38,0.48,3.16
+199_10_2,P3,,,0.79,9.47,0.55,4.11
+199_10_3,"a The mixed solvent of 97% CB/3% s1,8-diiodoctane (DIO).  b The device was fabricated with a layered structure of ITO/PEDOT:PSS/polymer:PC71BM/Ca/Al.",,,"a The mixed solvent of 97% CB/3% s1,8-diiodoctane (DIO).  b The device was fabricated with a layered structure of ITO/PEDOT:PSS/polymer:PC71BM/Ca/Al.","a The mixed solvent of 97% CB/3% s1,8-diiodoctane (DIO).  b The device was fabricated with a layered structure of ITO/PEDOT:PSS/polymer:PC71BM/Ca/Al.","a The mixed solvent of 97% CB/3% s1,8-diiodoctane (DIO).  b The device was fabricated with a layered structure of ITO/PEDOT:PSS/polymer:PC71BM/Ca/Al.","a The mixed solvent of 97% CB/3% s1,8-diiodoctane (DIO).  b The device was fabricated with a layered structure of ITO/PEDOT:PSS/polymer:PC71BM/Ca/Al."
+214_11_0,PBDFNTDO:PC60BM = 1:1,,,0.89,7.58,57.0,3.84
+214_11_1,PBDFNTDO:PC60BM = 1:2,,,0.83,7.17,54.8,3.26
+214_11_2,PBDFNTDO:PC60BM = 1:3,,,0.8,5.79,58.9,2.73
+214_11_3,PBDFNTDO:PC71BM = 1:1,,,0.86,8.32,62.6,4.48
+214_11_4,PBDFNTDO:PC71BM = 1:1.5,,,0.87,9.14,59.2,4.71
+214_11_5,PBDFNTDO:PC71BM = 1:2,,,0.83,8.9,54.1,4.0
+214_11_6,PBDTNTDO-C3:PC71BM = 1:1.5,,,0.84,5.34,50.6,2.27
+215_2_0,"PBDTPF-DTBT/PC71BM (1:1, w/w)",,,0.85,10.84,47.16,4.35/4.21
+215_2_1,"PBDTPF-DTBT/PC71BM (1:1, w/w)",,,0.82,13.11,65.28,7.02/6.90
+215_2_2,"PBDTPF-DTBT/PC71BM (1:1, w/w)",,,0.82,11.46,59.43,5.58/5.39
+215_2_3,a The average PCE was obtained from over 10 devices.,,,a The average PCE was obtained from over 10 devices.,a The average PCE was obtained from over 10 devices.,a The average PCE was obtained from over 10 devices.,a The average PCE was obtained from over 10 devices.
+217_3_0,P1,,,"0.96, (0.92)","3.20, (3.14)","0.39, (0.36)","1.19, (1.06)"
+217_3_1,P1,,,"0.94, (0.90)","2.97, (2.98)","0.33, (0.32)","0.92, (0.88)"
+217_3_2,P1,,,"0.78, (0.70)","2.80, (2.82)","0.30, (0.30)","0.64, (0.59)"
+217_3_3,P1,,,"0.29, (0.23)","2.60, (2.61)","0.29, (0.29)","0.22, (0.17)"
+217_3_4,P2,,,"0.91, (0.85)","7.90, (8.33)","0.42, (0.40)","2.96, (2.84)"
+217_3_5,P2,,,"0.84, (0.79)","7.78, (7.41)","0.36, (0.32)","2.34, (1.94)"
+217_3_6,P2,,,"0.73, (0.75)","7.54, (7.01)","0.36, (0.32)","1.99, (1.73)"
+217_3_7,P2,,,"0.67, (0.66)","7.66, (6.51)","0.38, (0.37)","1.94, (1.64)"
+217_3_8,P3,,,"0.90, (0.91)","8.03, (7.81)","0.37, (0.37)","2.67, (2.61)"
+217_3_9,P3,,,"0.89, (0.87)","6.16, (6.14)","0.47, (0.43)","2.60, (2.37)"
+217_3_10,P3,,,"0.89, (0.89)","5.49, (5.48)","0.50, (0.48)","2.48, (2.36)"
+217_3_11,P3,,,"0.89, (0.89)","5.62, (5.45)","0.47, (0.46)","2.38, (2.23)"
+217_3_12,a Data in the parenthesis represents the average measured PCE values.,,,a Data in the parenthesis represents the average measured PCE values.,a Data in the parenthesis represents the average measured PCE values.,a Data in the parenthesis represents the average measured PCE values.,a Data in the parenthesis represents the average measured PCE values.
+217_4_0,P1,,,"0.55, (0.44)","3.19, (3.22)","0.29, (0.29)","0.51, (0.41)"
+217_4_1,P2,,,"1.03, (0.85)","7.05, (8.22)","0.48, (0.49)","3.52, (3.43)"
+217_4_2,P3,,,"0.86, (0.86)","7.72, (7.57)","0.43, (0.43)","2.93, (2.82)"
+217_4_3,a Data in the parenthesis represents the average measured PCE values.,,,a Data in the parenthesis represents the average measured PCE values.,a Data in the parenthesis represents the average measured PCE values.,a Data in the parenthesis represents the average measured PCE values.,a Data in the parenthesis represents the average measured PCE values.
+221_7_0,D1,,,0.92,9.36,39.8,3.43
+221_7_1,D2,,,0.85,10.37,42.0,3.7
+221_7_2,D3,,,0.92,9.61,40.2,3.55
+221_7_3,D4,,,0.9,9.3,46.9,3.93
+221_7_4,D5,,,0.8,6.45,44.1,2.27
+221_7_5,D6,,,0.76,4.97,39.6,1.5
+221_7_6,D7,,,0.88,5.05,33.6,1.49
+221_7_7,D8,,,0.77,5.3,31.2,1.27
+221_7_8,D9,,,0.79,5.56,34.7,1.53
+221_7_9,D10,,,0.82,4.9,36.4,1.46
+221_8_0,D11,,,0.94,9.89,41.1,3.81
+221_8_1,D12,,,0.89,8.84,37.8,2.97
+221_8_2,D13,,,0.72,4.45,32.5,1.04
+221_8_3,D14,,,0.86,9.51,40.8,3.33
+221_8_4,D15,,,0.91,10.47,42.6,4.06
+221_8_5,D16,,,0.85,6.0,33.1,1.69
+221_9_0,D17,,,0.88,8.8,50.3,3.9
+221_9_1,D18,,,0.89,10.8,48.5,4.66
+221_9_2,D19,,,0.88,11.68,43.4,4.46
+221_9_3,D20,,,0.88,10.73,53.6,5.06
+221_9_4,D21,,,0.89,9.46,49.9,4.2
+221_9_5,D22,,,0.81,4.41,51.4,1.84
+221_9_6,D23,,,0.81,5.25,49.0,2.08
+221_9_7,D24,,,0.81,4.55,49.9,1.83
+221_9_8,D25,,,0.81,5.36,50.6,2.2
+223_5_0,PinBDFID,,,0.7366,1.66,48.6,0.590
+223_5_1,PoutBDFID,,,0.6410,1.306,36,0.301
+223_5_2,"Polymer films were prepared from solutions in o-DCB, 10 mg mL−1.",,,"Polymer films were prepared from solutions in o-DCB, 10 mg mL−1.","Polymer films were prepared from solutions in o-DCB, 10 mg mL−1.","Polymer films were prepared from solutions in o-DCB, 10 mg mL−1.","Polymer films were prepared from solutions in o-DCB, 10 mg mL−1."
+234_5_0,PBDTTID,,,0.83,3.43,0.52,1.47
+234_5_1,PBDTTID,,,0.81,2.30,0.63,1.17
+234_5_2,PBDTTID,,,0.81,1.99,0.59,0.96
+234_5_3,PBDTTID,,,0.80,6.50,0.60,3.12
+234_5_4,PBDTTPD,,,0.87,2.35,0.45,0.92
+234_5_5,a 3% DIO additive (v/v).,,,a 3% DIO additive (v/v).,a 3% DIO additive (v/v).,a 3% DIO additive (v/v).,a 3% DIO additive (v/v).
+238_8_0,1:1.0,,,0.96 ± 0.00,8.07 ± 0.25,37.5 ± 2.1,2.91 ± 0.26
+238_8_1,1:0.8,,,0.97 ± 0.01,8.28 ± 0.14,41.7 ± 1.0,3.35 ± 0.16
+238_8_2,1:0.7,,,0.97 ± 0.01,7.79 ± 0.23,40.3 ± 1.2,3.06 ± 0.15
+238_8_3,1:0.6,,,0.98 ± 0.01,7.12 ± 0.10,38.7 ± 1.8,2.70 ± 0.13
+238_8_4,1:0.5,,,1.02 ± 0.00,6.43 ± 0.20,34.5 ± 0.9,2.27 ± 0.12
+238_8_5,1:0.3,,,1.03 ± 0.01,3.76 ± 0.05,28.7 ± 0.6,1.11 ± 0.05
+238_8_6,a Average number based on 6 devices.,,,a Average number based on 6 devices.,a Average number based on 6 devices.,a Average number based on 6 devices.,a Average number based on 6 devices.
+244_12_0,P:PC60BMa,,,0.78,6.21,0.43,2.10
+244_12_1,P:PC70BMa,,,0.76,8.93,0.48,3.26
+244_12_2,P:PC70BMb,,,0.74,10.98,0.55,4.47
+244_12_3,P:PC70BMc,,,0.72,11.47,0.62,5.12
+244_12_4,a Cast from THF solvent.  b Cast from DIO/THF solvent.  c Cast from DIO/THF and DMSO doped PEDOT:PSS used as buffer layer.,,,a Cast from THF solvent.  b Cast from DIO/THF solvent.  c Cast from DIO/THF and DMSO doped PEDOT:PSS used as buffer layer.,a Cast from THF solvent.  b Cast from DIO/THF solvent.  c Cast from DIO/THF and DMSO doped PEDOT:PSS used as buffer layer.,a Cast from THF solvent.  b Cast from DIO/THF solvent.  c Cast from DIO/THF and DMSO doped PEDOT:PSS used as buffer layer.,a Cast from THF solvent.  b Cast from DIO/THF solvent.  c Cast from DIO/THF and DMSO doped PEDOT:PSS used as buffer layer.
+249_9_0,PBDTDT(Qx-3)-T,,,0.95,10.50,58.5,5.8
+249_9_1,PBDTDT(Qx-3)-T,,,0.96,11.10,58.6,6.2
+249_9_2,"PBDTDT(Qx-3)-T  ,",,,0.94,11.28,64.7,6.9
+249_9_3,PBDTDT(Qx-2)-T,,,0.95,10.82,61.4,6.3
+249_9_4,PBDTT-TQ,,,0.77,13.70,56.0,5.9
+249_9_5,PBDTDTQx-T,,,0.76,10.13,64.3,5.0
+249_9_6,a Annealing at 80 °C.  b 1% DIO additive.  c Annealing at 90 °C.  d Annealing at 120 °C.,,,a Annealing at 80 °C.  b 1% DIO additive.  c Annealing at 90 °C.  d Annealing at 120 °C.,a Annealing at 80 °C.  b 1% DIO additive.  c Annealing at 90 °C.  d Annealing at 120 °C.,a Annealing at 80 °C.  b 1% DIO additive.  c Annealing at 90 °C.  d Annealing at 120 °C.,a Annealing at 80 °C.  b 1% DIO additive.  c Annealing at 90 °C.  d Annealing at 120 °C.
+250_8_0,P0F:PCBM,,,0.832 (0.003),6.37 (0.05),54% (1%),2.9 (0.1)
+250_8_1,P1F:PCBM,,,0.872 (0.003),6.52 (0.07),55% (1%),3.1 (0.1)
+250_8_2,P2F:PCBM,,,0.914 (0.002),6.84 (0.03),59% (1%),3.7 (0.1)
+250_8_3,a The device parameters reported are averages obtained from 15 devices. The number in parenthesis corresponds to the standard deviation of the measurements.,,,a The device parameters reported are averages obtained from 15 devices. The number in parenthesis corresponds to the standard deviation of the measurements.,a The device parameters reported are averages obtained from 15 devices. The number in parenthesis corresponds to the standard deviation of the measurements.,a The device parameters reported are averages obtained from 15 devices. The number in parenthesis corresponds to the standard deviation of the measurements.,a The device parameters reported are averages obtained from 15 devices. The number in parenthesis corresponds to the standard deviation of the measurements.
+250_11_0,P0F,,,0.832,,,
+250_11_1,P1F,,,0.872,,,
+250_11_2,P2F,,,0.914,,,
+250_11_3,Δ(P0F ⇒ P1F),,,0.040,,,
+250_11_4,Δ(P1F ⇒ P2F),,,0.042,,,
+250_11_5,"a In order to calculate C, the measured VOC value for P1F:PCBM was used.  b In obtaining the calculated VOC values, a constant C value was assumed.",,,"a In order to calculate C, the measured VOC value for P1F:PCBM was used.  b In obtaining the calculated VOC values, a constant C value was assumed.",,,
+251_12_0,PBDT-DFQX-PP,,,0.80,8.11,45.60,2.96
+251_12_1,PBDT-DFQX-PP,,,0.89,8.66,51.38,3.96
+251_12_2,PBDT-DFQX-TP,,,0.82,12.34,60.12,6.08
+251_12_3,PBDT-DFQX-PT,,,0.85,12.13,63.46,6.54
+251_12_4,PBDT-DFQX-TT,,,0.85,12.53,68.51,7.29
+251_12_5,PBDT-DFQX-TT,,,0.86,12.77,69.93,7.68
+251_12_6,a Polymer/PC71BM weight ratio.  b Treatment with methanol.  c Optimized data.  d Measured by using the SCLC method.,,,a Polymer/PC71BM weight ratio.  b Treatment with methanol.  c Optimized data.  d Measured by using the SCLC method.,a Polymer/PC71BM weight ratio.  b Treatment with methanol.  c Optimized data.  d Measured by using the SCLC method.,a Polymer/PC71BM weight ratio.  b Treatment with methanol.  c Optimized data.  d Measured by using the SCLC method.,a Polymer/PC71BM weight ratio.  b Treatment with methanol.  c Optimized data.  d Measured by using the SCLC method.
+252_5_0,PFQBDT-TR1:PC61BM (2:1),,,0.78,7.7,39,2.3
+252_5_1,PFQBDT-TR1:PC61BM (2:1),,,0.76,6.1,37,1.7
+252_5_2,PFQBDT-TR1:PC61BM (1:1),,,0.84,11.1,61,5.7
+252_5_3,PFQBDT-TR1:PC61BM (1:1),,,0.81,10.7,63,5.6
+252_5_4,PFQBDT-TR1:PC61BM (1:1),,,0.74,8.8,48,3.2
+252_5_5,PFQBDT-TR1:PC61BM (1:2),,,0.79,8.9,67,4.7
+252_5_6,PFQBDT-TR1:PC61BM (1:2),,,0.79,8.1,64,4.1
+252_5_7,PFQBDT-T2R2:PC61BM (2:1),,,0.98,3.6,28,1.0
+252_5_8,PFQBDT-T2R2:PC61BM (2:1),,,0.97,3.1,30,0.9
+252_5_9,PFQBDT-T2R2:PC61BM (1:1),,,0.99,6.8,43,2.9
+252_5_10,PFQBDT-T2R2:PC61BM (1:1),,,0.96,6.9,47,3.1
+252_5_11,PFQBDT-T2R2:PC61BM (1:2),,,0.99,6.3,49,3.1
+252_5_12,PFQBDT-T2R2:PC61BM (1:2),,,0.96,6.5,54,3.4
+252_5_13,PFQBDT-T2R2:PC61BM (1:2),,,0.94,6.2,53,3.1
+252_5_14,a Active layers from ODCB solutions.  b Annealing time: 10 min.,,,a Active layers from ODCB solutions.  b Annealing time: 10 min.,a Active layers from ODCB solutions.  b Annealing time: 10 min.,a Active layers from ODCB solutions.  b Annealing time: 10 min.,a Active layers from ODCB solutions.  b Annealing time: 10 min.
+253_7_0,PBDTTFTQ-EH,,,0.78,13.2,70.8,7.29 (7.15)
+253_7_1,PBDTTFTQ-DO,,,0.88,11.4,75.9,7.61 (7.42)
+253_7_2,PBDTTFTTQ-EH,,,0.72,13.4,70.8,6.82 (6.65)
+253_7_3,PBDTTFTTQ-DO,,,0.85,11.3,75.7,7.25 (7.09)
+253_7_4,a Calculated from 5 individual PSCs.,,,a Calculated from 5 individual PSCs.,a Calculated from 5 individual PSCs.,a Calculated from 5 individual PSCs.,a Calculated from 5 individual PSCs.
+255_8_0,PBDT-PQD1,,,0.98,10.4,0.48,4.9
+255_8_1,PBDT-PQD2,,,1.08,7.6,0.43,3.5
+255_8_2,PBDT-PQD3,,,1.03,7.3,0.39,2.9
+255_8_3,PT-PQD,,,1.00,7.7,0.38,2.9
+255_8_4,a Polymer:PC71BM weight ratio.  b Active layer thickness (d).,,,a Polymer:PC71BM weight ratio.  b Active layer thickness (d).,a Polymer:PC71BM weight ratio.  b Active layer thickness (d).,a Polymer:PC71BM weight ratio.  b Active layer thickness (d).,a Polymer:PC71BM weight ratio.  b Active layer thickness (d).
+257_4_0,P1,,,0.64,11.27,60.2,
+257_4_1,P1,,,0.66,15.9,48.9,
+257_4_2,P1,,,0.66,8.5,31.2,
+257_4_3,,,,,,,
+257_4_4,P2,,,0.71,10.5,57.7,
+257_4_5,P2,,,0.7,12.1,52.4,
+257_4_6,P2,,,0.72,10.6,46.3,
+257_4_7,,,,,,,
+257_4_8,P4,,,0.7,5.91,53.9,
+257_4_9,P4,,,0.68,8.75,45.3,
+257_4_10,P4,,,0.7,7.39,43.5,
+257_4_11,,,,,,,
+257_4_12,P6,,,0.69,8.96,39.4,
+257_4_13,P6,,,0.66,13.6,32.9,
+257_4_14,P6,,,0.7,6.26,28.8,
+258_3_0,1 vol% DIO,,,0.76,15.74,0.60,7.18 (7.01)
+258_3_1,3 vol% DIO,,,0.76,16.21,0.65,8.00 (7.92)
+258_3_2,5 vol% DIO,,,0.75,14.70,0.68,7.70 (7.54)
+258_3_3,a Average PCE for five devices.,,,a Average PCE for five devices.,a Average PCE for five devices.,a Average PCE for five devices.,a Average PCE for five devices.
+261_2_0,PBDTBPA-DPP(OD):PC61BM,,,0.45,2.26,39,0.39
+261_2_1,P1a:PC61BM,,,0.75,4.00,34,1.05
+261_2_2,P1b:PC61BM,,,0.75,5.72,39,1.67
+261_2_3,PBDTBPA(H)-DPP:PC  71  BM,,,0.74,13.17,57,5.58
+261_2_4,PBDTBPA(F)-DPP:PC  71  BM,,,0.68,9.89,50,4.04
+261_2_5,"P1a & P1b = poly{4,8-bis(4-decylphenylethynyl)benzo[1,2-b:4,5-b′]dithiophene}.",,,"P1a & P1b = poly{4,8-bis(4-decylphenylethynyl)benzo[1,2-b:4,5-b′]dithiophene}.","P1a & P1b = poly{4,8-bis(4-decylphenylethynyl)benzo[1,2-b:4,5-b′]dithiophene}.","P1a & P1b = poly{4,8-bis(4-decylphenylethynyl)benzo[1,2-b:4,5-b′]dithiophene}.","P1a & P1b = poly{4,8-bis(4-decylphenylethynyl)benzo[1,2-b:4,5-b′]dithiophene}."
+261_8_0,PBDTBPA(H)-DPP,,,0.72 ± 0.01,8.22 ± 0.10,49.32 ± 1.67,2.88 ± 0.05
+261_8_1,PBDTBPA(H)-DPP,,,0.73 ± 0.01,12.36 ± 0.10,51.21 ± 0.70,4.62 ± 0.10
+261_8_2,PBDTBPA(F)-DPP,,,0.66 ± 0.03,7.71 ± 0.42,37.89 ± 1.68,1.92 ± 0.10
+261_8_3,PBDTBPA(F)-DPP,,,0.68 ± 0.01,9.49 ± 0.16,46.99 ± 1.03,3.04 ± 0.16
+261_8_4,a PCE is the average of 10 IOSCs.,,,a PCE is the average of 10 IOSCs.,a PCE is the average of 10 IOSCs.,a PCE is the average of 10 IOSCs.,a PCE is the average of 10 IOSCs.
+261_9_0,PBDTBPA(H)-DPP,,,0.74 ± 0.01,13.17 ± 0.12,57.28 ± 1.59,5.58 ± 0.25
+261_9_1,PBDTBPA(F)-DPP,,,0.68 ± 0.01,11.81 ± 0.10,50.53 ± 0.29,4.04 ± 0.07
+261_9_2,a PCE is the average of 10 IOSCs.,,,a PCE is the average of 10 IOSCs.,a PCE is the average of 10 IOSCs.,a PCE is the average of 10 IOSCs.,a PCE is the average of 10 IOSCs.
+267_7_0,0% DIO,,,0.77,6.84,0.66,3.49
+267_7_1,1% DIO,,,0.76,10.81,0.71,5.89
+267_7_2,2% DIO,,,0.77,11.71,0.71,6.41
+267_7_3,3% DIO,,,0.76,11.07,0.72,6.09
+267_7_4,a DIO content in chlorobenzene.,,,a DIO content in chlorobenzene.,a DIO content in chlorobenzene.,a DIO content in chlorobenzene.,a DIO content in chlorobenzene.
+274_4_0,syn-PBDFID,,,0.8,1.28,0.5,0.53%
+274_4_1,syn-PBDFID,,,0.85,2.89,0.59,1.44%
+274_4_2,syn-PBDFID,,,0.79,2.83,0.48,1.07%
+274_4_3,syn-PBDFID,,,0.85,3.02,0.51,1.32%
+274_4_4,anti-PBDFID,,,0.67,1.19,0.48,0.38%
+274_4_5,anti-PBDFID,,,0.75,1.74,0.48,0.65%
+274_4_6,anti-PBDFID,,,0.53,2.36,0.39,0.48%
+274_4_7,anti-PBDFID,,,0.61,2.8,0.38,0.65%
+275_5_0,P1,,,0.7,−5.1,0.63,2.28
+275_5_1,P1,,,0.69,−7.0,0.6,2.89
+275_5_2,P2,,,0.66,−7.0,0.6,2.77
+275_5_3,P2,,,0.65,−7.7,0.57,2.81
+275_5_4,P3,,,0.67,−6.7,0.47,2.1
+275_5_5,P3,,,0.66,−7.4,0.47,2.28
+275_5_6,P4,,,0.59,−4.2,0.39,0.97
+276_8_0,PBDFTT-C,,,0.56,6.41,53.42,1.92
+276_8_1,PBDFTT-C,,,0.54a,13.13,60.03,4.26
+276_8_2,PBDFTT-EF,,,0.63,12.04,54.78,4.16
+276_8_3,PBDFTT-EF,,,0.61a,15.75,53.82,5.17
+276_8_4,PBDFTT-CF,,,0.63,12.51,57.34,4.52
+276_8_5,PBDFTT-CF,,,0.63a,13.88,59.81,5.23
+276_8_6,PBDFTT-S,,,0.59,12.02,56.14,3.98
+276_8_7,PBDFTT-S,,,0.59a,14.21,60.70,5.08
+276_8_8,PBDFTT-ECN,,,0.87,5.88,44.59,2.28
+276_8_9,PBDFTT-ECN,,,0.82a,4.78,47.26,1.85
+276_8_10,a 3% DIO v/v was added.,,,a 3% DIO v/v was added.,a 3% DIO v/v was added.,a 3% DIO v/v was added.,a 3% DIO v/v was added.
+278_5_0,P1,,,,,6.58 × 104,
+278_5_1,P2,,,,,6.53 × 104,
+278_5_2,P3,,,,,6.24 × 104,
+278_5_3,P4,,,,,6.94 × 104,
+278_5_4,a Estimated from PESA with UV intensity of 5 nW.  b Estimated from onset values of oxidation half cycle of CV.  c Estimated from onset values of reduction half cycle of CV.  d E  g = |HOMOb − LUMOc|.  e Calculated from onset values of UV-Vis absorptions.  f UV-Vis absorptions in spin coated thin film.  g UV-Vis absorptions in chloroform solution.,,,,,a Estimated from PESA with UV intensity of 5 nW.  b Estimated from onset values of oxidation half cycle of CV.  c Estimated from onset values of reduction half cycle of CV.  d E  g = |HOMOb − LUMOc|.  e Calculated from onset values of UV-Vis absorptions.  f UV-Vis absorptions in spin coated thin film.  g UV-Vis absorptions in chloroform solution.,
+278_17_0,P4/PC71BMb (w/w),,,0.66,9.74 ± 0.07,0.53,2.39 ± 0.02
+278_17_1,P4/PC71BMb (w/w),,,0.68,10.26 ± 0.11,0.58,4.05 ± 0.04
+278_17_2,P4/PC71BMb (w/w),,,0.68,9.15 ± 0.25,0.59,3.73 ± 0.04
+278_17_3,P4/PC71BMb (w/w),,,0.67,6.93 ± 0.21,0.60,2.94 ± 0.05
+278_17_4,DIO/CBc (v/v),,,0.66,1.66 ± 0.09,0.57,0.62 ± 0.03
+278_17_5,DIO/CBc (v/v),,,0.66,3.33 ± 0.32,0.53,1.17 ± 0.21
+278_17_6,DIO/CBc (v/v),,,0.68,10.26 ± 0.11,0.58,4.05 ± 0.04
+278_17_7,DIO/CBc (v/v),,,0.65,12.30 ± 0.07,0.64,5.09 ± 0.10
+278_17_8,DIO/CBc (v/v),,,0.65,11.49 ± 0.08,0.59,4.40 ± 0.05
+278_17_9,DIO/CBc (v/v),,,0.66,7.94 ± 0.14,0.58,3.01 ± 0.02
+278_17_10,Methanol treatmentf (min),,,0.65,12.30 ± 0.07,0.64,5.09 ± 0.10
+278_17_11,Methanol treatmentf (min),,,0.65,10.76 ± 0.06,0.66,4.60 ± 0.04
+278_17_12,Methanol treatmentf (min),,,0.65,11.49 ± 0.08,0.59,4.40 ± 0.05
+278_17_13,Methanol treatmentf (min),,,0.65,10.50 ± 0.46,0.51,3.48 ± 0.14
+278_17_14,Methanol treatmentf (min),,,0.65,8.38 ± 0.20,0.41,2.23 ± 0.07
+278_17_15,"a Average of 3 devices fabricated with P4.  b 3% DIO in CB.  c P4/PC71BM at 1:1.5.  d Dried by high vacuum for 20 hours.  e Dried by high vacuum for 20 hours, methanol treatment 2 min.  f 3% DIO in CB, P4/PC71BM at 1:1.5, dried by high vacuum for 20 hours before methanol treatment.",,,"a Average of 3 devices fabricated with P4.  b 3% DIO in CB.  c P4/PC71BM at 1:1.5.  d Dried by high vacuum for 20 hours.  e Dried by high vacuum for 20 hours, methanol treatment 2 min.  f 3% DIO in CB, P4/PC71BM at 1:1.5, dried by high vacuum for 20 hours before methanol treatment.","a Average of 3 devices fabricated with P4.  b 3% DIO in CB.  c P4/PC71BM at 1:1.5.  d Dried by high vacuum for 20 hours.  e Dried by high vacuum for 20 hours, methanol treatment 2 min.  f 3% DIO in CB, P4/PC71BM at 1:1.5, dried by high vacuum for 20 hours before methanol treatment.","a Average of 3 devices fabricated with P4.  b 3% DIO in CB.  c P4/PC71BM at 1:1.5.  d Dried by high vacuum for 20 hours.  e Dried by high vacuum for 20 hours, methanol treatment 2 min.  f 3% DIO in CB, P4/PC71BM at 1:1.5, dried by high vacuum for 20 hours before methanol treatment.","a Average of 3 devices fabricated with P4.  b 3% DIO in CB.  c P4/PC71BM at 1:1.5.  d Dried by high vacuum for 20 hours.  e Dried by high vacuum for 20 hours, methanol treatment 2 min.  f 3% DIO in CB, P4/PC71BM at 1:1.5, dried by high vacuum for 20 hours before methanol treatment."
+278_18_0,P1,,,0.73,6.04 ± 0.26,0.54,2.39 ± 0.07
+278_18_1,P1,,,0.72,5.65 ± 0.17,0.51,2.09 ± 0.05
+278_18_2,P2,,,0.67,6.32 ± 0.31,0.59,2.50 ± 0.06
+278_18_3,P2,,,0.67,5.59 ± 0.17,0.55,2.19 ± 0.08
+278_18_4,P3,,,0.68,7.83 ± 0.26,0.60,3.18 ± 0.09
+278_18_5,P3,,,0.69,7.13 ± 0.20,0.54,2.65 ± 0.10
+278_18_6,P4,,,0.65,12.11 ± 0.22,0.64,5.01 ± 0.10
+278_18_7,P4,,,0.66,11.11 ± 0.27,0.60,4.32 ± 0.09
+278_18_8,"a Average of 10 devices.  b Device condition: (polymer/PC71BM ration at 1:1.5 w/w, 3% DIO in CB, dried under vacuum for 20 hours).  c Same conditions with b followed by methanol surface treatment for 2 minutes.  d Average of 10 measurements on the devices offered the maximum PCEs.",,,"a Average of 10 devices.  b Device condition: (polymer/PC71BM ration at 1:1.5 w/w, 3% DIO in CB, dried under vacuum for 20 hours).  c Same conditions with b followed by methanol surface treatment for 2 minutes.  d Average of 10 measurements on the devices offered the maximum PCEs.","a Average of 10 devices.  b Device condition: (polymer/PC71BM ration at 1:1.5 w/w, 3% DIO in CB, dried under vacuum for 20 hours).  c Same conditions with b followed by methanol surface treatment for 2 minutes.  d Average of 10 measurements on the devices offered the maximum PCEs.","a Average of 10 devices.  b Device condition: (polymer/PC71BM ration at 1:1.5 w/w, 3% DIO in CB, dried under vacuum for 20 hours).  c Same conditions with b followed by methanol surface treatment for 2 minutes.  d Average of 10 measurements on the devices offered the maximum PCEs.","a Average of 10 devices.  b Device condition: (polymer/PC71BM ration at 1:1.5 w/w, 3% DIO in CB, dried under vacuum for 20 hours).  c Same conditions with b followed by methanol surface treatment for 2 minutes.  d Average of 10 measurements on the devices offered the maximum PCEs."
+280_5_0,P9:PC61BM,,,0.83,6.12,45.4,2.29
+280_5_1,P9:PC71BM,,,0.8,7.51,43.8,2.63
+280_5_2,P9:PC71BM (with 5% DIO),,,0.8,9.81,58.7,4.61
+285_7_0,PBT-HD-DPP-C16/PC71BM,,,0.60,5.01,52.1,
+285_7_1,PBT-HD-DPP-C16/PC71BM,,,0.62,6.41,60.9,
+285_7_2,PBT-T-DPP-C12/PC71BM,,,0.65,11.01,58.3,
+285_7_3,PBT-T-DPP-C12/PC71BM,,,0.65,12.61,63.4,
+285_7_4,PBT-TIPS-DPP-C16/PC71BM,,,0.75,12.79,58.2,
+285_7_5,PBT-TIPS-DPP-C16/PC71BM,,,0.75,13.9,61.3,
+285_7_6,"a J  integralsc, the integral current density calculated from IPCE data.",,,"a J  integralsc, the integral current density calculated from IPCE data.","a J  integralsc, the integral current density calculated from IPCE data.","a J  integralsc, the integral current density calculated from IPCE data.",
+307_3_0,a-PTPTBT,,,0.87,8.1,64.9,4.56
+307_3_1,a-PTPTBT,,,0.86,10.7,60.4,5.56
+307_3_2,PTPTBT,,,0.8,10.1,53.0,4.3
+307_3_3,a-PTPTBT-SAb,,,0.85,11.2,67.2,6.41
+307_3_4,a Using PC61BM (Purchased from Nano-C) as acceptors.  b Using PC71BM (Purchased from Solenne) as acceptors.,,,,,,
+313_3_0,1.5:1,,,0.93,4.45,45,1.86
+313_3_1,1.5:1a,,,0.95,7.36,63,4.40
+313_3_2,1:1,,,0.93,5.28,54,2.65
+313_3_3,1:1a,,,0.91,9.03,64,5.26
+313_3_4,1:2,,,0.92,5.46,45,2.26
+313_3_5,1:2a,,,0.93,7.92,52,3.83
+313_3_6,a 1% DIO additive (v/v).,,,a 1% DIO additive (v/v).,a 1% DIO additive (v/v).,a 1% DIO additive (v/v).,a 1% DIO additive (v/v).
+331_4_0,Si4T-BT,,,0.67,9.69,0.43,2.79
+331_4_1,Si4T-TPD,,,0.80,9.42,0.46,3.46
+331_4_2,Si4T-2FBT,,,0.77,14.07,0.51,5.52
+331_4_3,Conventional device architecture ITO/PEDOT:PSS/polymer:PC71BM/Ca/Al with a polymer:PC71BM blend ratio of 1:3.5 processed from o-dichlorobenzene.,,,Conventional device architecture ITO/PEDOT:PSS/polymer:PC71BM/Ca/Al with a polymer:PC71BM blend ratio of 1:3.5 processed from o-dichlorobenzene.,Conventional device architecture ITO/PEDOT:PSS/polymer:PC71BM/Ca/Al with a polymer:PC71BM blend ratio of 1:3.5 processed from o-dichlorobenzene.,Conventional device architecture ITO/PEDOT:PSS/polymer:PC71BM/Ca/Al with a polymer:PC71BM blend ratio of 1:3.5 processed from o-dichlorobenzene.,Conventional device architecture ITO/PEDOT:PSS/polymer:PC71BM/Ca/Al with a polymer:PC71BM blend ratio of 1:3.5 processed from o-dichlorobenzene.
+340_4_0,Device A,,,0.82,10.01,54.9,4.50
+340_4_1,Device B,,,0.81,12.82,55.5,5.76
+340_4_2,Device Ca,,,1.62,8.03,54.4,7.08
+340_4_3,"a Thickness of P3HT:IC60BA blend = 190 nm, thickness of PBDCPDT–FBT:PC71BM blend = 90 nm.",,,"a Thickness of P3HT:IC60BA blend = 190 nm, thickness of PBDCPDT–FBT:PC71BM blend = 90 nm.","a Thickness of P3HT:IC60BA blend = 190 nm, thickness of PBDCPDT–FBT:PC71BM blend = 90 nm.","a Thickness of P3HT:IC60BA blend = 190 nm, thickness of PBDCPDT–FBT:PC71BM blend = 90 nm.","a Thickness of P3HT:IC60BA blend = 190 nm, thickness of PBDCPDT–FBT:PC71BM blend = 90 nm."
+349_9_0,PCDTMBI,,,0.65,10.0,0.48,3.12
+349_9_1,PCPPDTMBI,,,0.47,4.48,0.32,0.67
+349_9_2,PFDTMBI,,,0.56,2.44,0.31,0.42
+357_3_0,PDTSNTDO:PC70BM = 1:1,,,0.89,9.57,60.3,5.13
+357_3_1,PDTSNTDO:PC70BM = 1:2,,,0.88,9.24,64.0,5.21
+357_3_2,PDTSNTDO:PC70BM = 1:3,,,0.88,6.39,58.8,3.31
+359_8_0,PDTPBT-C8,,,0.4,5.63,0.5,1.11
+359_8_1,PDTPBT-C8,,,0.43,6.19,0.46,1.23
+359_8_2,PDTPBT-C8,,,0.4,6.66,0.45,1.2
+359_8_3,PDTPBT-C6,,,0.42,10.8,0.41,1.88
+359_8_4,PDTPBT-C6,,,0.43,11.1,0.43,2.06
+359_8_5,PDTPBT-C6,,,0.38,8.17,0.33,1.02
+359_8_6,PDTPBT-C5,,,0.46,8.86,0.47,1.91
+359_8_7,PDTPBT-C5,,,0.54,11.9,0.44,2.8
+359_8_8,PDTPBT-C5,,,0.55,12.3,0.41,2.76
+360_10_0,PDTC  a,,,0.8,10.04,0.47,3.74
+360_10_1,PDTC  b,,,0.8,9.4,0.45,3.45
+360_10_2,PDTSi  a,,,0.91,2.32,0.56,1.18
+360_10_3,PDTSi  b,,,0.85,6.58,0.37,2.13
+360_10_4,PDTP  a,,,0.71,2.53,0.5,0.91
+360_10_5,PDTP  b,,,0.76,4.69,0.53,1.69
+360_10_6,a Film from pristine DCB.  b Film from o-DCB : 2 vol% CN.,,,,,,
+361_6_0,P1,,,,,104,
+361_6_1,P2,,,,,104,
+361_6_2,P3,,,,,103,
+361_6_3,P4,,,,,103,
+361_9_0,P1,,,0.36,4.2,53.6,0.8
+361_9_1,P2,,,0.44,3.69,40.0,0.7
+361_9_2,P3,,,0.58,4.04,47.8,1.1
+361_9_3,P4,,,0.77,4.62,68.8,2.5
+373_3_0,PGeTFDTBT,,,0.71,13.51,0.57,5.47
+373_3_1,PGeDTBT,,,0.66,7.46,0.68,3.51
+376_3_0,1:0.8,,,0.72,10.38,64.7,4.83
+376_3_1,1:1,,,0.71,10.86,68.0,5.24
+376_3_2,1:1.3,,,0.73,11.25,71.6,5.88
+376_3_3,1:2,,,0.7,9.97,68.1,4.75
+381_3_0,PDTBTV,,,0.55,,28.83,
+381_3_1,PDTBTV,,,0.56,,24.5,
+381_3_2,PDTBTV,,,0.43,,33.51,
+381_3_3,PDTBTFV,,,0.73,,38.57,
+381_3_4,PDTBTFV,,,0.75,,37.97,
+381_3_5,PDTBTFV,,,0.83,,34.56,
+382_7_0,PTVcBBO,,,0.35,0.12,26,0.01
+382_7_1,PTVtBBO,,,0.40,0.66,31,0.08
+382_7_2,Polymers films were prepared from solutions in o-DCB 10 mg mL−1.,,,Polymers films were prepared from solutions in o-DCB 10 mg mL−1.,Polymers films were prepared from solutions in o-DCB 10 mg mL−1.,Polymers films were prepared from solutions in o-DCB 10 mg mL−1.,Polymers films were prepared from solutions in o-DCB 10 mg mL−1.
+383_9_0,PEBT,,,0.57,2.33,0.4,
+383_9_1,PEBTBT,,,0.45,4.16,0.57,
+383_9_2,PEBTTBT,,,0.6,4.41,0.4,
+383_9_3,"a At 1:2 blending ratio of polymer:PC70BM (by weight).  b BC/TG, the channel length was 20 μm, at a gate bias of 60 V.  c Short circuit current density in current–voltage curve (Fig. 5).  d Open circuit voltage in current–voltage curve (Fig. 5).  e The root mean squared roughness measured by AFM.",,,,,,
+384_7_0,PCzTh–TVCN,,,0.77,2.26,32.0,0.56
+384_7_1,PCzTh–TVCN,,,0.83,3.16,33.9,0.89
+384_7_2,PCzTh–TVCN,,,0.83,3.21,38.3,1.02
+384_7_3,PCzTh–TVCN,,,0.84,3.17,34.5,0.92
+384_7_4,PCzTh–TVDCN,,,0.78,3.4,35.3,0.93
+384_7_5,PCzTh–TVDCN,,,0.96,3.66,32.8,1.15
+384_7_6,PCzTh–TVDCN,,,0.95,4.0,35.2,1.34
+384_7_7,PCzTh–TVDCN,,,0.93,3.56,33.6,1.12
+384_7_8,PCzTh–TVDT,,,0.75,2.4,27.0,0.49
+384_7_9,PCzTh–TVDT,,,0.9,3.15,28.4,0.81
+384_7_10,PCzTh–TVDT,,,0.94,3.7,28.7,1.0
+384_7_11,PCzTh–TVDT,,,0.93,3.2,27.4,0.82
+384_9_0,PCzTh–TVCN,,,0.99,3.72,36.1,1.33
+384_9_1,PCzTh–TVDCN,,,1.03,5.75,36.5,2.16
+384_9_2,PCzTh–TVDT,,,0.96,4.67,29.1,1.3
+396_3_0,C60,,,0.8,5.09,0.4,1.64
+396_3_1,C70,,,0.81,6.07,0.44,2.18
+396_3_2,C70,,,0.81,6.36,0.41,2.12
+396_3_3,a All devices made from chloroform:ODCB with a 1:2 ratio of P1:PCBM.,,,,,,
+399_3_0,PNB-3,,,0.68,2.74 (2.36)a,32.0,0.61 (0.52)a
+399_3_1,PNB-3,,,0.66,2.76 (2.87)a,34.0,0.62 (0.64)a
+399_3_2,PNB-4,,,0.72,4.30 (4.47)a,56.0,1.73 (1.80)a
+399_3_3,PNB-4,,,0.64,13.50 (12.66)a,62.0,5.27 (5.00)a
+399_3_4,a EQE calibrated value.,,,,,,
+418_5_0,PzIIG-BDT2TC8:PC61BM = 1:1,,,1.04,5.23,50.28,2.74
+418_5_1,PzIIG-BDT2TC8:PC61BM = 1:2,,,1.03,5.68,53.39,3.12
+418_5_2,PzIIG-BDT2TC8:PC61BM = 1:3,,,1.02,5.16,44.26,2.33
+418_5_3,PzIIG-BDT2TC8:PC61BM = 1:2,,,1.02,6.68,62.18,4.24
+418_5_4,PzIIG-BDT2TC8:PC71BM = 1:2,,,1.01,7.93,65.63,5.26
+418_5_5,PzIIG-BTT2TC10:PC61BM = 1:1,,,0.96,3.5,44.35,1.49
+418_5_6,PzIIG-BTT2TC10:PC61BM = 1:2,,,0.95,3.92,50.86,1.89
+418_5_7,PzIIG-BTT2TC10:PC61BM = 1:3,,,0.95,3.16,43.8,1.31
+418_5_8,PzIIG-BTT2TC10:PC61BM = 1:2,,,0.95,4.55,61.61,2.66
+418_5_9,PzIIG-BTT2TC10:PC71BM = 1:2,,,0.94,5.89,60.78,3.36
+426_6_0,PBDT-TS1,,,0.802,17.72,68.57,9.74 (9.52)
+426_6_1,PBDT-TSR,,,0.804,17.99,70.55,10.20 (9.91)
+426_6_2,a Average values of PCEs for thirty devices are shown in the brackets.,,,a Average values of PCEs for thirty devices are shown in the brackets.,a Average values of PCEs for thirty devices are shown in the brackets.,a Average values of PCEs for thirty devices are shown in the brackets.,a Average values of PCEs for thirty devices are shown in the brackets.
+427_4_0,Standard PDPP[T]2-EDOT,,,0.25 ± 0.01,6.8 ± 0.3,0.40 ± 0.01,0.7 ± 0.1
+427_4_1,Standard PDPP[Py]2-EDOT,,,0.80 ± 0.01,5.1 ± 0.4,0.54 ± 0.01,2.2 ± 0.2
+427_4_2,Standard PDPP[Ph]2-EDOT,,,0.97 ± 0.01,4.1 ± 0.2,0.47 ± 0.01,1.7 ± 0.1
+427_4_3,Inverted PDPP[T]2-EDOT,,,0.32 ± 0.01,15.5 ± 0.2,0.50 ± 0.01,2.5 ± 0.1
+427_4_4,Inverted PDPP[Py]2-EDOT,,,0.70 ± 0.01,4.9 ± 0.2,0.41 ± 0.01,1.4 ± 0.1
+427_4_5,Inverted PDPP[Ph]2-EDOT,,,0.91 ± 0.01,4.4 ± 0.1,0.43 ± 0.01,1.7 ± 0.1
+428_10_0,PBDTA-INDI,,,0.93,6.9,44.0,2.83
+428_10_1,PBDTA-INDI,,,0.93,7.39,54.6,3.76
+428_10_2,PBDTA-INDI,,,0.93,8.51,63.7,5.04
+428_10_3,PBDTT-INDI,,,0.98,8.98,47.1,4.13
+428_10_4,PBDTT-INDI,,,0.96,9.06,57.6,5.01
+428_10_5,PBDTT-INDI,,,0.96,10.26,64.5,6.35
+429_5_0,P1,,,0.85,2.79b,60,1.42 (1.33)
+429_5_1,P2,,,0.87,12.53b,67,7.30 (7.24)
+429_5_2,P2,,,0.88,14.11 (13.52b),70,8.67 (8.50)
+429_5_3,P2,,,0.87,14.91 (14.24b),71,9.26 (9.13)
+429_5_4,a Washed with methanol.  b Calculated by EQE integration.  c Inverted structure (ITO/PFN/P2:PC71BM/MoO3/Al).,,,a Washed with methanol.  b Calculated by EQE integration.  c Inverted structure (ITO/PFN/P2:PC71BM/MoO3/Al).,a Washed with methanol.  b Calculated by EQE integration.  c Inverted structure (ITO/PFN/P2:PC71BM/MoO3/Al).,a Washed with methanol.  b Calculated by EQE integration.  c Inverted structure (ITO/PFN/P2:PC71BM/MoO3/Al).,a Washed with methanol.  b Calculated by EQE integration.  c Inverted structure (ITO/PFN/P2:PC71BM/MoO3/Al).
+430_9_0,PIDT-DTQ,,,0.86,11.42,65.77,6.41
+430_9_1,PIDT-DTQ-TT,,,0.81,12.20,58.23,5.72
+430_9_2,PIDT-DTQ-TT,,,0.81,12.08,62.80,6.10
+430_9_3,PIDT-DTQ-TT,,,0.83,12.43,65.25,6.63
+430_9_4,PIDT-DTQ-TT,,,0.80,12.00,64.87,6.23
+430_9_5,PIDT-DTQ-TT,,,0.82,11.28,65.87,6.04
+430_9_6,a Blending with PC71BM.  b Annealed at 100 °C.  c No annealing.  d Obtained from the literature.24,,,a Blending with PC71BM.  b Annealed at 100 °C.  c No annealing.  d Obtained from the literature.24,a Blending with PC71BM.  b Annealed at 100 °C.  c No annealing.  d Obtained from the literature.24,a Blending with PC71BM.  b Annealed at 100 °C.  c No annealing.  d Obtained from the literature.24,a Blending with PC71BM.  b Annealed at 100 °C.  c No annealing.  d Obtained from the literature.24
+431_6_0,PBTF-OP,,,0.90 (±0.001),13.9 (±0.2),56.7 (±1.0),7.0 (±0.1)
+431_6_1,PBTF-OP,,,0.86 (±0.001),16.4 (±0.2),62.2 (±1.0),8.9 (±0.1)
+431_6_2,PBTF-OP,,,0.86 (±0.001),15.4 (±0.3),60.4 (±2.0),7.9 (±0.1)
+431_6_3,PTB7-Th,,,0.78 (±0.001),16.0 (±0.2),60.9 (±2.0),7.5 (±0.1)
+431_6_4,PTB7-Th,,,0.78 (±0.001),16.9 (±0.3),61.4 (±1.0),8.2 (±0.1)
+431_6_5,a Values calculated by EQE.  b The average PCE is obtained from over 20 devices.,,,a Values calculated by EQE.  b The average PCE is obtained from over 20 devices.,a Values calculated by EQE.  b The average PCE is obtained from over 20 devices.,a Values calculated by EQE.  b The average PCE is obtained from over 20 devices.,a Values calculated by EQE.  b The average PCE is obtained from over 20 devices.
+432_3_0,0.5%,,,0.87,14.1,0.68,8.25
+432_3_1,1%,,,0.86,16.0,0.65,9.02
+432_3_2,1.5%,,,0.87,15.6,0.63,8.55
+433_4_0,PF0,,,0.74,11.76,65.46,5.70/5.62
+433_4_1,PF1,,,0.80,11.85,66.23,6.29/6.13
+433_4_2,PF2,,,0.86,11.67,65.25,6.54/6.45
+433_4_3,a Current density measured from the J–V curves.  b Current density integrated from the EQE.  c Average PCEs after annealing for 30 days at 100 °C.  d Average PCEs after annealing for 120 hours at 130 °C. Values in brackets represent the loss ratio of PCE. All average values were obtained from 8 devices.,,,a Current density measured from the J–V curves.  b Current density integrated from the EQE.  c Average PCEs after annealing for 30 days at 100 °C.  d Average PCEs after annealing for 120 hours at 130 °C. Values in brackets represent the loss ratio of PCE. All average values were obtained from 8 devices.,a Current density measured from the J–V curves.  b Current density integrated from the EQE.  c Average PCEs after annealing for 30 days at 100 °C.  d Average PCEs after annealing for 120 hours at 130 °C. Values in brackets represent the loss ratio of PCE. All average values were obtained from 8 devices.,a Current density measured from the J–V curves.  b Current density integrated from the EQE.  c Average PCEs after annealing for 30 days at 100 °C.  d Average PCEs after annealing for 120 hours at 130 °C. Values in brackets represent the loss ratio of PCE. All average values were obtained from 8 devices.,a Current density measured from the J–V curves.  b Current density integrated from the EQE.  c Average PCEs after annealing for 30 days at 100 °C.  d Average PCEs after annealing for 120 hours at 130 °C. Values in brackets represent the loss ratio of PCE. All average values were obtained from 8 devices.
+434_4_0,1:1,,,0.96 ± 0.01,4.93 ± 0.11,0.59 ± 0.01,2.81 ± 0.08
+434_4_1,1:1.5,,,0.96 ± 0.01,7.26 ± 0.08,0.59 ± 0.02,4.20 ± 0.07
+434_4_2,1:2,,,0.96 ± 0.01,9.94 ± 0.10,0.60 ± 0.01,5.71 ± 0.10
+434_4_3,1:2.5,,,0.96 ± 0.01,8.72 ± 0.08,0.59 ± 0.01,4.95 ± 0.12
+434_4_4,1:2,,,0.96 ± 0.01,10.25 ± 0.07,0.62 ± 0.01,6.27 ± 0.09
+434_4_5,1:2,,,0.96 ± 0.01,10.96 ± 0.11,0.65 ± 0.02,6.98 ± 0.10
+434_4_6,1:2,,,0.96 ± 0.01,10.17 ± 0.10,0.61 ± 0.02,6.05 ± 0.09
+434_4_7,1:0.9a,,,0.55 ± 0.01,10.16 ± 0.08,0.66 ± 0.01,3.76 ± 0.10
+434_4_8,a Device based on P3HT:PC71BM (see ESI).,,,a Device based on P3HT:PC71BM (see ESI).,a Device based on P3HT:PC71BM (see ESI).,a Device based on P3HT:PC71BM (see ESI).,a Device based on P3HT:PC71BM (see ESI).
+435_4_0,1:1,,,0.73 (0.73 ± 0.01),13.4 (13.1 ± 0.2),59 (57 ± 1),5.8 (5.5 ± 0.2)
+435_4_1,1:1.5,,,0.70 (0.70 ± 0.01),16.2 (15.7 ± 0.3),59 (57 ± 1),6.7 (6.4 ± 0.1)
+435_4_2,1:1.5b,,,0.70 (0.70 ± 0.01),17.1 (16.5 ± 0.3),61 (58 ± 2),7.3 (7.0 ± 0.2)
+435_4_3,1:2,,,0.69 (0.69 ± 0.01),14.6 (14.2 ± 0.1),59 (57 ± 1),6.0 (5.7 ± 0.2)
+435_4_4,a Calculated by EQE.  b The PSCs were processed with 1% DIO. The values shown in brackets are the average values with standard deviations of device parameters based on 15 devices.,,,a Calculated by EQE.  b The PSCs were processed with 1% DIO. The values shown in brackets are the average values with standard deviations of device parameters based on 15 devices.,a Calculated by EQE.  b The PSCs were processed with 1% DIO. The values shown in brackets are the average values with standard deviations of device parameters based on 15 devices.,a Calculated by EQE.  b The PSCs were processed with 1% DIO. The values shown in brackets are the average values with standard deviations of device parameters based on 15 devices.,a Calculated by EQE.  b The PSCs were processed with 1% DIO. The values shown in brackets are the average values with standard deviations of device parameters based on 15 devices.
+437_4_0,P-TT,,,0.79,17.20,69.7,9.47 (9.11)
+437_4_1,P-TT,,,0.80,17.11,69.9,9.57 (9.23)
+437_4_2,P-TT,,,0.79,16.77,69.6,9.22 (8.88)
+437_4_3,P-TT,,,0.79,17.60,66.9,9.30 (8.90)
+437_4_4,P-TT,,,0.80,18.15,68.6,9.96 (9.58)
+437_4_5,P-TT,,,0.80,16.48,71.0,9.36 (9.04)
+437_4_6,P-TT,,,0.80,15.22,71.8,8.74 (8.48)
+437_4_7,P-TT,,,0.80,13.07,72.8,7.61 (7.45)
+437_4_8,P-2T,,,0.76,17.48,59.5,7.91 (7.69)
+437_4_9,a The values in parentheses stand for the average PCEs from over 15 devices.,,,a The values in parentheses stand for the average PCEs from over 15 devices.,a The values in parentheses stand for the average PCEs from over 15 devices.,a The values in parentheses stand for the average PCEs from over 15 devices.,a The values in parentheses stand for the average PCEs from over 15 devices.
+438_8_0,PBDTT-DTFPQx,,,0.87,11.4,73,7.2 (7.0)
+438_8_1,PBDT-DFQX-TP,,,0.82,12.34,60.12,6.08
+438_8_2,PBDTDT(Qx-3)-T,,,0.94,11.28,64.7,6.9
+438_8_3,a With thermal annealing at 80 °C for 10 min and 1% DIO.  b The average PCE was obtained from over 10 devices.,,,a With thermal annealing at 80 °C for 10 min and 1% DIO.  b The average PCE was obtained from over 10 devices.,a With thermal annealing at 80 °C for 10 min and 1% DIO.  b The average PCE was obtained from over 10 devices.,a With thermal annealing at 80 °C for 10 min and 1% DIO.  b The average PCE was obtained from over 10 devices.,a With thermal annealing at 80 °C for 10 min and 1% DIO.  b The average PCE was obtained from over 10 devices.
+439_8_0,PC1BT6,,,0.95,14.00,55.2,7.34 (7.21 ± 0.09)
+439_8_1,PC2BT6,,,0.99,13.11,51.0,6.62 (6.46 ± 0.05)
+439_8_2,PC6BT6,,,0.98,12.91,50.5,6.39 (6.21 ± 0.16)
+439_8_3,PNC2C4BT6,,,0.99,13.24,50.9,6.67 (6.44 ± 0.15)
+439_8_4,PC2BT,,,1.01,10.48,38.0,4.02 (3.94 ± 0.09)
+439_8_5,a Polymer:PC71BM = 1:4 (w/w); o-DCB:CB = 1:4 (v/v); 0.5% (v/v) DIO.  b The data have been averaged over 8 devices of different batches.,,,a Polymer:PC71BM = 1:4 (w/w); o-DCB:CB = 1:4 (v/v); 0.5% (v/v) DIO.  b The data have been averaged over 8 devices of different batches.,a Polymer:PC71BM = 1:4 (w/w); o-DCB:CB = 1:4 (v/v); 0.5% (v/v) DIO.  b The data have been averaged over 8 devices of different batches.,a Polymer:PC71BM = 1:4 (w/w); o-DCB:CB = 1:4 (v/v); 0.5% (v/v) DIO.  b The data have been averaged over 8 devices of different batches.,a Polymer:PC71BM = 1:4 (w/w); o-DCB:CB = 1:4 (v/v); 0.5% (v/v) DIO.  b The data have been averaged over 8 devices of different batches.
+440_9_0,PBDTT-BTAZT-1,,,0.73 ± 0.01,13.78 ± 0.16,52.9 ± 2.9,5.29 ± 0.28(5.79)
+440_9_1,PBDTT-BTAZT-1,,,0.73 ± 0.01,13.59 ± 0.16,63.0 ± 1.1,6.21 ± 0.07(6.32)
+440_9_2,PBDTT-BTAZT-1,,,0.75 ± 0.01,14.11 ± 0.21,62.4 ± 1.6,6.64 ± 0.27(6.95)
+440_9_3,,,,,,,
+440_9_4,PBDTT-BTAZT-2,,,0.74 ± 0.01,10.36 ± 0.43,55.1 ± 3.6,4.19 ± 0.21(4.51)
+440_9_5,PBDTT-BTAZT-2,,,0.75 ± 0.01,9.84 ± 0.19,64.2 ± 2.2,4.74 ± 0.26(5.04)
+440_9_6,PBDTT-BTAZT-2,,,0.75 ± 0.01,12.73 ± 0.17,62.4 ± 2.5,5.96 ± 0.15(6.16)
+440_9_7,a Average data obtained from six devices.,,,a Average data obtained from six devices.,a Average data obtained from six devices.,a Average data obtained from six devices.,a Average data obtained from six devices.
+441_11_0,PIDTI-BT:PC71BM,,,0.81,4.79,34.3,1.20
+441_11_1,PIDTI-BT:PC71BM,,,0.80,8.28,52.7,3.49
+441_11_2,PIDTI-BT:PC71BM,,,0.82,8.99 (8.69),54.6,4.02
+441_11_3,PIDTI-BT:PC71BM,,,0.81,7.80,46.6,2.94
+441_11_4,PIDTI-BT:PC71BM,,,0.81,6.79,40.3,2.21
+441_11_5,,,,,,,
+441_11_6,PIDTI-DTBT:PC71BM,,,0.78,3.94,36.9,1.13
+441_11_7,PIDTI-DTBT:PC71BM,,,0.79,7.27,48.1,2.76
+441_11_8,PIDTI-DTBT:PC71BM,,,0.80,8.85,45.3,3.20
+441_11_9,PIDTI-DTBT:PC71BM,,,0.80,9.07 (8.87),51.4,3.72
+441_11_10,PIDTI-DTBT:PC71BM,,,0.79,6.10,45.8,2.20
+441_11_11,a Annealing at 130 °C for 10 min.  b Integrated from EQE data.  c The value is the average PCE of four devices.  d Hole mobility of the polymers determined by OFET.  e SCLC mobility of the polymers.,,,a Annealing at 130 °C for 10 min.  b Integrated from EQE data.  c The value is the average PCE of four devices.  d Hole mobility of the polymers determined by OFET.  e SCLC mobility of the polymers.,a Annealing at 130 °C for 10 min.  b Integrated from EQE data.  c The value is the average PCE of four devices.  d Hole mobility of the polymers determined by OFET.  e SCLC mobility of the polymers.,a Annealing at 130 °C for 10 min.  b Integrated from EQE data.  c The value is the average PCE of four devices.  d Hole mobility of the polymers determined by OFET.  e SCLC mobility of the polymers.,a Annealing at 130 °C for 10 min.  b Integrated from EQE data.  c The value is the average PCE of four devices.  d Hole mobility of the polymers determined by OFET.  e SCLC mobility of the polymers.
+459_12_0,P1,,,0.7,2.06,43,0.86
+459_12_1,P2,,,0.8,4.84,50,2.22
+459_12_2,P3,,,0.95,2.57,36,1.28
+459_12_3,P4,,,1.0,1.87,38,1.05
+460_4_0,PThzTITI,,,0.94,0.54,46.4,0.24
+460_4_1,PThzTITI,,,1.08,1.6,56.8,0.98
+460_4_2,,,,,,,
+460_4_3,PSezTITI,,,1.02,0.48,45.4,0.22
+460_4_4,PSezTITI,,,1.05,3.75,59.6,2.36
+461_7_0,PVB1:PC71BM,,,1.00,6.80,0.42,2.84
+461_7_1,PVB2:PC71BM,,,1.09,5.33,0.35,2.05
+461_7_2,a The weight ratio of polymer:PC71BM are 1:4.  b Fill factor.,,,a The weight ratio of polymer:PC71BM are 1:4.  b Fill factor.,a The weight ratio of polymer:PC71BM are 1:4.  b Fill factor.,a The weight ratio of polymer:PC71BM are 1:4.  b Fill factor.,a The weight ratio of polymer:PC71BM are 1:4.  b Fill factor.
+462_7_0,1:1,,,0.90,7.70,64,4.45
+462_7_1,1:2,,,0.90,7.99,64,4.62
+462_7_2,1:3,,,0.90,6.88,54,3.34
+462_7_3,a Open-circuit voltage.  b Short-circuit current density.  c Fill factor.  d Power conversion efficiency.,,,a Open-circuit voltage.  b Short-circuit current density.  c Fill factor.  d Power conversion efficiency.,a Open-circuit voltage.  b Short-circuit current density.  c Fill factor.  d Power conversion efficiency.,a Open-circuit voltage.  b Short-circuit current density.  c Fill factor.  d Power conversion efficiency.,a Open-circuit voltage.  b Short-circuit current density.  c Fill factor.  d Power conversion efficiency.
+476_12_0,P1:PC71BM (as cast),,,0.94,8.84,0.52,4.32
+476_12_1,P2:PC71BM (as cast),,,0.96,7.26,0.5,3.48
+476_12_2,P1:PC71BM (SVA),,,0.9,12.62,0.64,7.27
+476_12_3,P2:PC71BM (SVA),,,0.92,11.72,0.62,6.68
+494_5_0,Without DIO,,,0.88,9.48,72.55,6.09
+494_5_1,With DIO3%,,,0.87,11.29,73.13,7.22
+494_5_2,"a Jsc (cal.), calculated Jsc from a EQE curve.",,,"a Jsc (cal.), calculated Jsc from a EQE curve.","a Jsc (cal.), calculated Jsc from a EQE curve.","a Jsc (cal.), calculated Jsc from a EQE curve.","a Jsc (cal.), calculated Jsc from a EQE curve."
+495_5_0,TQF2-1,,,0.93,8.5 (8.1)b,0.58,4.6
+495_5_1,PTI-1,,,0.88,6.8 (6.4)b,0.62,3.7
+495_5_2,PR31,,,0.94,9.4 (9.2)b,0.62,5.5
+495_5_3,PR13,,,0.95,10.8 (10.3)b,0.57,5.8
+495_5_4,PR11,,,0.92,7.6 (7.2)b,0.57,4.0
+495_5_5,PTQTI-Fa,,,0.93,12.6,0.54,6.3
+495_5_6,TQF2-1:PTI-1 (3:1),,,0.93,8.1 (7.7)b,0.47,3.5
+495_5_7,TQF2-1:PTI-1 (1:3),,,0.94,4.4 (4.0)b,0.45,1.9
+495_5_8,TQF2-1:PTI-1 (1:1),,,0.94,6.0 (5.7)b,0.52,2.9
+495_5_9,a From ref. 39.b Integrated Jsc from EQE spectra.,,,a From ref. 39.b Integrated Jsc from EQE spectra.,a From ref. 39.b Integrated Jsc from EQE spectra.,a From ref. 39.b Integrated Jsc from EQE spectra.,a From ref. 39.b Integrated Jsc from EQE spectra.
+496_8_0,PIDTT-DTBO,,,0.88,5.02,32.34,1.35 ± 0.07 (1.43)
+496_8_1,PIDTT-DTBO,,,0.88,8.24,37.48,2.64 ± 0.08 (2.72)
+496_8_2,PIDTT-DTBO,,,0.88,9.19,43.40,3.42 ± 0.08 (3.51)
+496_8_3,PIDTT-DTBO,,,0.88,9.97,49.84,4.24 ± 0.09 (4.37)
+496_8_4,PIDTT-DTBO,,,0.88,10.50,49.74,4.47 ± 0.10 (4.60)
+496_8_5,PIDTT-DTBT,,,0.84,4.15,30.15,0.93 ± 0.10 (1.05)
+496_8_6,PIDTT-DTBT,,,0.86,6.93,34.89,1.95 ± 0.10 (2.08)
+496_8_7,PIDTT-DTBT,,,0.86,8.87,51.04,3.78 ± 0.08 (3.89)
+496_8_8,PIDTT-DTBT,,,0.86,10.05,55.80,4.70 ± 0.10 (4.82)
+496_8_9,PIDTT-DTBT,,,0.86,10.20,55.99,4.79 ± 0.09 (4.91)
+496_8_10,"a Polymer:PC71BM weight ratio.b Room temperature without annealing.c The values in the parentheses are from the best devices, and the statistics are from twelve devices.",,,"a Polymer:PC71BM weight ratio.b Room temperature without annealing.c The values in the parentheses are from the best devices, and the statistics are from twelve devices.","a Polymer:PC71BM weight ratio.b Room temperature without annealing.c The values in the parentheses are from the best devices, and the statistics are from twelve devices.","a Polymer:PC71BM weight ratio.b Room temperature without annealing.c The values in the parentheses are from the best devices, and the statistics are from twelve devices.","a Polymer:PC71BM weight ratio.b Room temperature without annealing.c The values in the parentheses are from the best devices, and the statistics are from twelve devices."
+497_9_0,1:0.5,,,0.98,6.08,0.45,2.68
+497_9_1,1:1,,,0.96,8.34,0.48,3.84
+497_9_2,1:1.5,,,0.98,9.53,0.53,4.95
+497_9_3,1:2,,,0.98,9.21,0.51,4.6
+497_11_0,CF cast,,,0.98,9.53,0.53,4.95 (4.86)a
+497_11_1,1 v% DIO/CF,,,0.95,10.65,0.56,5.66
+497_11_2,2 v% DIO/CF,,,0.94,12.87,0.63,7.62
+497_11_3,3% DIO/CF cast,,,0.94,14.36,0.66,8.91 (8.79)a
+497_11_4,3.5% DIO/CF cast,,,0.95,12.54,0.61,7.26
+497_11_5,a Average value of 10 devices.,,,a Average value of 10 devices.,a Average value of 10 devices.,a Average value of 10 devices.,a Average value of 10 devices.

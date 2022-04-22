@@ -110,15 +110,16 @@ def match_string(patterns, strings):
 def gather_properties_from_full_table(table, table_header, searching_patterns, output_headers):
     properties_table = pd.DataFrame()
     r_headers = reorder_headers(table_header)
-
+    
     matched_cols = []
     matched_col_names = []
-    for col in range(len(r_headers)):
-        for p, h in zip(searching_patterns, output_headers):
+    for p, h in zip(searching_patterns, output_headers):
+        for col in range(len(r_headers)):
             if match_string(p, r_headers[col]):
                 matched_cols.append(col)
                 matched_col_names.append(h)
-
+                break
+    
     if (not matched_cols): return None
 
     row_count = -1
